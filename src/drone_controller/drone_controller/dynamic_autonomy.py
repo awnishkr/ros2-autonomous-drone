@@ -352,6 +352,7 @@ class DynamicAutonomy(Node):
                 )
             else:
                 try:
+                    self.get_logger().info(f'Obstacles known to A*: {self.known}')
                     self.route = AStarPlanner(
                         self.known
                     ).plan((x, y), self.goal)
