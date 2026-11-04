@@ -1,0 +1,105 @@
+#!/usr/bin/env bash
+set -e
+
+cd ~/drone_ws || exit
+
+source /opt/ros/jazzy/setup.bash
+source install/setup.bash
+source ~/drone_landing_venv/bin/activate
+
+LOG_DIR="$PWD/mission_logs/$(date +%Y%m%d_%H%M%S)"
+mkdir -p "$LOG_DIR"
+
+PIDS=()
+
+cleanup() {
+    trap - EXIT INT TERM
+    for pid in "${PIDS[@]}"; do
+        kill "$pid" 2>/dev/null || true
+    done
+    wait 2>/dev/null || true
+}
+
+trap cleanup EXIT INT TERM
+
+launch() {
+    name="$1"
+    shift
+    "$@" > "$LOG_DIR/$name.log" 2>&1 &
+    PIDS+=("$!")
+    echo "STARTED: ${name^^}"
+}
+
+echo "=== STARTING FULL AUTONOMOUS MISSION ==="
+
+launch gazebo gz sim -v 3 \
+src/drone_description/worlds/ai_demo_offset.sdf
+
+sleep 5
+
+launch bridge ros2 run ros_gz_bridge parameter_bridge \
+'/quadcopter/cmd_vel@geometry_msgs/msg/Twist]gz.msgs.Twist' \
+'/quadcopter/enable@std_msgs/msg/Bool]gz.msgs.Boolean' \
+'/model/quadcopter/odometry@nav_msgs/msg/Odometry[gz.msgs.Odometry' \
+'/quadcopter/scan@sensor_msgs/msg/LaserScan[gz.msgs.LaserScan' \
+'/world/first_flight/model/quadcopter/link/base_link/sensor/body_collision_contact_sensor/contact@ros_gz_interfaces/msg/Contacts[gz.msgs.Contacts' \
+'/world/first_flight/model/quadcopter/link/base_link/sensor/arm_1_collision_contact_sensor/contact@ros_gz_interfaces/msg/Contacts[gz.msgs.Contacts' \
+'/world/first_flight/model/quadcopter/link/base_link/sensor/arm_2_collision_contact_sensor/contact@ros_gz_interfaces/msg/Contacts[gz.msgs.Contacts'
+
+launch camera ros2 run ros_gz_image image_bridge \
+/quadcopter/landing_camera/image \
+--ros-args -p qos:=sensor_data
+
+sleep 3
+
+launch yolo python \
+~/drone_landing_assets/live_landing_detector.py
+
+
+launch router python \
+src/drone_controller/drone_controller/ai_mission_router.py
+
+launch landing python \
+src/drone_controller/drone_controller/ai_demo_landing.py \
+--ros-args \
+-p flight_enabled:=true \
+-p horizontal_enabled:=true \
+-p descent_enabled:=true \
+-p shutdown_on_contact:=true \
+-r /quadcopter/cmd_vel:=/mission/ai/cmd_vel \
+-r /quadcopter/enable:=/mission/ai/enable
+
+launch navigation python \
+src/drone_controller/drone_controller/dynamic_ai_handoff.py \
+--ros-args \
+-p dry_run:=false \
+-r /quadcopter/cmd_vel:=/mission/nav/cmd_vel \
+-r /quadcopter/enable:=/mission/nav/enable
+
+sleep 6
+
+echo ""
+echo "=== FLIGHT COMMAND CHECK ==="
+ros2 topic info /quadcopter/cmd_vel || true
+
+echo ""
+echo "=== LIDAR CHECK ==="
+ros2 topic info /quadcopter/scan || true
+
+echo ""
+echo "=== LOG LOCATION ==="
+echo "$LOG_DIR"
+
+echo ""
+
+echo "Autonomous Drone Navigation with A*, LiDAR and YOLO11n-Based Precision Landing"
+echo ""
+
+tail -n 0 -F \
+"$LOG_DIR/navigation.log" \
+"$LOG_DIR/landing.log" \
+"$LOG_DIR/router.log" &
+
+PIDS+=("$!")
+
+wait "${PIDS[0]}"
