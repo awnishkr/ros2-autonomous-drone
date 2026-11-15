@@ -1,1 +1,3 @@
-run_autonomous_mission.sh
+#!/usr/bin/env bash
+set -e
+exec bash "$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)/launch_mission.sh" "$@"

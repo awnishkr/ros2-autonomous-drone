@@ -1,0 +1,5 @@
+# Python dependencies for the supplied ONNX camera detector.
+# ROS 2 Python packages are installed separately with the ROS distribution.
+numpy
+opencv-python
+onnxruntime

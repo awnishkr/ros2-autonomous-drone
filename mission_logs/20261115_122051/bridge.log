@@ -1,0 +1,8 @@
+[INFO] [1794725457.225555511] [ros_gz_bridge]: Creating ROS->GZ Bridge: [/quadcopter/cmd_vel (geometry_msgs/msg/Twist) -> /quadcopter/cmd_vel (gz.msgs.Twist)] (Lazy 0)
+[INFO] [1794725457.231409692] [ros_gz_bridge]: Creating ROS->GZ Bridge: [/quadcopter/enable (std_msgs/msg/Bool) -> /quadcopter/enable (gz.msgs.Boolean)] (Lazy 0)
+[INFO] [1794725457.232502608] [ros_gz_bridge]: Creating GZ->ROS Bridge: [/model/quadcopter/odometry (gz.msgs.Odometry) -> /model/quadcopter/odometry (nav_msgs/msg/Odometry)] (Lazy 0)
+[INFO] [1794725457.235119041] [ros_gz_bridge]: Creating GZ->ROS Bridge: [/quadcopter/scan (gz.msgs.LaserScan) -> /quadcopter/scan (sensor_msgs/msg/LaserScan)] (Lazy 0)
+[INFO] [1794725457.236943068] [ros_gz_bridge]: Creating GZ->ROS Bridge: [/world/first_flight/model/quadcopter/link/base_link/sensor/body_collision_contact_sensor/contact (gz.msgs.Contacts) -> /world/first_flight/model/quadcopter/link/base_link/sensor/body_collision_contact_sensor/contact (ros_gz_interfaces/msg/Contacts)] (Lazy 0)
+[INFO] [1794725457.239432038] [ros_gz_bridge]: Creating GZ->ROS Bridge: [/world/first_flight/model/quadcopter/link/base_link/sensor/arm_1_collision_contact_sensor/contact (gz.msgs.Contacts) -> /world/first_flight/model/quadcopter/link/base_link/sensor/arm_1_collision_contact_sensor/contact (ros_gz_interfaces/msg/Contacts)] (Lazy 0)
+[INFO] [1794725457.240208484] [ros_gz_bridge]: Creating GZ->ROS Bridge: [/world/first_flight/model/quadcopter/link/base_link/sensor/arm_2_collision_contact_sensor/contact (gz.msgs.Contacts) -> /world/first_flight/model/quadcopter/link/base_link/sensor/arm_2_collision_contact_sensor/contact (ros_gz_interfaces/msg/Contacts)] (Lazy 0)
+[INFO] [1794725458.091980438] [rclcpp]: signal_handler(SIGINT/SIGTERM)

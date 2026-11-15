@@ -1,0 +1,215 @@
+[INFO] [1793816014.125375290] [dynamic_autonomy]: Dynamic autonomy started | dry_run=False
+[WARN] [1793816014.202814205] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816016.305370815] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816018.400858194] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816020.401335834] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816022.405797947] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816024.507864898] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816026.599841124] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816028.602186163] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816030.699957295] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816032.802740431] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816034.803245020] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816036.801989408] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816038.899901227] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816040.901201733] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816043.000464945] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816045.002888107] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816047.101661023] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816049.107249599] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816051.200388228] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816053.206343646] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816055.313240643] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816057.402160622] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816059.499181889] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816061.500758661] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816063.504734570] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816065.600291593] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816067.602836522] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816069.699183938] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816071.701450420] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816073.700213210] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816075.799636820] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816077.899155879] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816079.999829077] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816081.998963616] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816084.098968151] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816086.101139785] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816088.101794756] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816090.199950384] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816092.202453170] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816094.300770673] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816096.304544332] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816098.399927965] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816100.400874043] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816102.499300267] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816104.601512211] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816106.702503685] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816108.800682688] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816110.903766523] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816112.998973393] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816115.002358793] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816117.102153386] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816119.200621921] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816121.299346339] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816123.402583085] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816125.404875272] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816127.500812521] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816129.501830971] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816131.599876076] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816133.601989446] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816135.705235949] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816137.799294857] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816139.802798098] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816141.899982072] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816143.999014678] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816146.001765068] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816148.003875694] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816150.100763210] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816152.103941801] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816154.199364589] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816156.201698592] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816158.300324133] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816160.302944778] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816162.402224298] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816164.499481246] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816166.602326205] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816168.699865795] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816170.711164234] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816172.800272180] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816174.899672175] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816176.899202731] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816178.999412227] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816181.001609519] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816183.001944891] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816185.099740459] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816187.100376744] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816189.199161362] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816191.200686766] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816193.299781956] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816195.399849140] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816197.499131887] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816199.598963764] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816201.599824430] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816203.699110118] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816205.799752385] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816207.899002835] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816209.900711928] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816211.999787842] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816214.098991541] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816216.202122959] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816218.299723278] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816220.401714379] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816222.498901949] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816224.498958295] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816226.498907327] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816228.600260275] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816230.698905074] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816232.699254379] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816234.799959529] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816236.899652856] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816238.999840040] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816241.098890730] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816243.100821307] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816245.198963572] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816247.200339024] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816249.300724774] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816251.401127839] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816253.500745557] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816255.599001937] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816257.698895527] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816259.699286234] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816261.700390530] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816263.700867296] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816265.799843070] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816267.800760756] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816269.900855639] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816271.998888451] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816274.000161210] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816275.999688437] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816278.003925365] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816280.007339768] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816282.099760514] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816284.100766858] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816286.199250452] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816288.207807912] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816290.310994540] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816292.400670029] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816294.401973692] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816296.499276774] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816298.500238489] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816300.609704641] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816302.699872829] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816304.703529470] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816306.701695283] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816308.801725105] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816310.800728439] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816312.899258545] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816314.899377584] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816317.000199414] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816319.004204438] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816321.099009462] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816323.101786377] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816325.200193943] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816327.201229189] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816329.200868257] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816331.203008935] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816333.301606455] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816335.402604459] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816337.499670820] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816339.599384044] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816341.698959170] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816343.699244010] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816345.799274725] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816347.804481109] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816349.900402080] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816352.002988252] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816354.106595157] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816356.100007848] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816358.102810925] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816360.199912925] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816362.199870555] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816364.209639731] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816366.301931010] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816368.399909364] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816370.401125038] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816372.499348471] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816374.602470084] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816376.700967341] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816378.701760500] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816380.800808864] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816382.799761814] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[INFO] [1793816385.140918469] [dynamic_autonomy]: Initial A* route: 6 points
+[INFO] [1793816385.144654772] [dynamic_autonomy]: TAKEOFF | XYZ=(-0.00, -0.00, 1.45) | Waypoint=1/5 | Unknown cells=0
+[INFO] [1793816387.209698070] [dynamic_autonomy]: TAKEOFF | XYZ=(-0.00, 0.00, 1.70) | Waypoint=1/5 | Unknown cells=1
+[INFO] [1793816389.312338314] [dynamic_autonomy]: TAKEOFF | XYZ=(-0.00, 0.00, 2.00) | Waypoint=1/5 | Unknown cells=1
+[INFO] [1793816390.209221760] [dynamic_autonomy]: Takeoff complete. Starting A* navigation.
+[INFO] [1793816391.402359608] [dynamic_autonomy]: NAVIGATE | XYZ=(-0.03, 0.07, 2.01) | Waypoint=1/5 | Unknown cells=2
+[ERROR] [1793816393.099885050] [dynamic_autonomy]: SENSOR LOSS: HOLD latched. Restart controller only after checking sensors.
+[WARN] [1793816393.401471035] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816395.500786155] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816397.503401069] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816399.604609962] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816401.602013348] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816403.603840422] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816408.000188573] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816410.004369208] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816412.100711101] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+Traceback (most recent call last):
+  File "/home/awnish-kumar/drone_ws/src/drone_controller/drone_controller/dynamic_ai_handoff.py", line 690, in <module>
+    main()
+  File "/home/awnish-kumar/drone_ws/src/drone_controller/drone_controller/dynamic_ai_handoff.py", line 674, in main
+    rclpy.spin(node)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/__init__.py", line 247, in spin
+    executor.spin_once()
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 926, in spin_once
+    self._spin_once_impl(timeout_sec)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 907, in _spin_once_impl
+    handler, entity, node = self.wait_for_ready_callbacks(
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 877, in wait_for_ready_callbacks
+    return next(self._cb_iter)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 785, in _wait_for_ready_callbacks
+    raise ExternalShutdownException()
+rclpy.executors.ExternalShutdownException

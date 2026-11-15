@@ -1,0 +1,124 @@
+[INFO] [1793732837.875165416] [ai_flight_alignment]: AI Flight Alignment | flight_enabled=True
+[INFO] [1793732837.887994340] [ai_flight_alignment]: FINAL LANDING | descent=True | auto_motor_shutdown=True
+[INFO] [1793732837.889508512] [ai_flight_alignment]: AI LANDING READY — WAITING FOR A* HANDOFF
+[INFO] [1793732975.270505657] [ai_flight_alignment]: A* NAVIGATION COMPLETE — AI LANDING ACTIVATED
+[INFO] [1793732975.360963376] [ai_flight_alignment]: AI ALIGNING | z=2.000 | vx=0.074 vy=0.054 vz=-0.150
+[INFO] [1793732976.872712413] [ai_flight_alignment]: AI ALIGNING | z=1.872 | vx=0.074 vy=0.055 vz=-0.150
+[INFO] [1793732978.464691881] [ai_flight_alignment]: AI ALIGNING | z=1.662 | vx=0.062 vy=0.046 vz=-0.097
+[INFO] [1793732980.063616319] [ai_flight_alignment]: AI ALIGNING | z=1.527 | vx=0.049 vy=0.035 vz=-0.016
+[INFO] [1793732981.661095205] [ai_flight_alignment]: AI ALIGNING | z=1.500 | vx=0.038 vy=0.027 vz=0.000
+[INFO] [1793732983.164134785] [ai_flight_alignment]: AI ALIGNING | z=1.497 | vx=0.025 vy=0.017 vz=0.002
+[INFO] [1793732984.666128836] [ai_flight_alignment]: ALIGNMENT VERIFYING | z=1.499 | vx=0.000 vy=0.000 vz=0.001
+[INFO] [1793732986.266472629] [ai_flight_alignment]: ALIGNMENT VERIFYING | z=1.500 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793732987.862531615] [ai_flight_alignment]: AI APPROACH DESCENT | z=1.456 | vx=0.011 vy=0.007 vz=-0.060
+[INFO] [1793732989.363232129] [ai_flight_alignment]: AI APPROACH DESCENT | z=1.380 | vx=0.009 vy=0.006 vz=-0.060
+[INFO] [1793732990.863794841] [ai_flight_alignment]: AI APPROACH DESCENT | z=1.300 | vx=0.004 vy=0.003 vz=-0.060
+[INFO] [1793732992.466589344] [ai_flight_alignment]: AI APPROACH DESCENT | z=1.215 | vx=0.004 vy=0.002 vz=-0.060
+[INFO] [1793732993.967638034] [ai_flight_alignment]: AI APPROACH DESCENT | z=1.136 | vx=0.004 vy=0.003 vz=-0.060
+[INFO] [1793732995.562053622] [ai_flight_alignment]: AI APPROACH DESCENT | z=1.050 | vx=-0.001 vy=-0.001 vz=-0.060
+[INFO] [1793732997.070626766] [ai_flight_alignment]: AI APPROACH DESCENT | z=0.968 | vx=0.009 vy=-0.000 vz=-0.060
+[INFO] [1793732998.665629882] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.887 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793733000.262568089] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.845 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793733001.863131614] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.806 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793733003.362988203] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.772 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793733004.863051067] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.737 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793733006.363248795] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.701 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793733007.961203047] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.665 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793733009.462550784] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.631 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793733010.971662470] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.599 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793733012.560927383] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.561 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793733014.063542273] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.526 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793733015.667121630] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.489 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793733017.262888096] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.451 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793733018.863925023] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.412 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793733020.462564734] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.375 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793733022.067155268] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.340 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793733023.661400869] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.304 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793733025.170056361] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.271 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793733026.763857662] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.234 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793733028.361031492] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.197 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793733029.862596595] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.162 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793733031.466823478] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.125 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793733032.966528206] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.089 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793733034.561490373] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.053 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793733036.064196409] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733037.660835201] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733039.168532809] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733040.767949251] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733042.261189410] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733043.869440418] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733045.363900325] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733046.960887967] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733048.463951311] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733050.061582091] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733051.663406895] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733053.162678035] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733054.761049362] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733056.261237419] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733057.863385671] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733059.361106106] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733060.861184945] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733062.362522419] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733063.863526751] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733065.462983767] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733066.962958369] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733068.468032474] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733070.066377043] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733071.569635386] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733073.164186729] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733074.763468085] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733076.363656917] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733077.966494408] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733079.561485368] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733081.163238392] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733082.664108606] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733084.260965246] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733085.764243056] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733087.362850354] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733088.875735586] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733090.462429878] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733091.961890154] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733093.562634696] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733095.078572395] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733096.661808204] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733098.162690215] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733099.682542431] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733101.261591317] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733102.861038938] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733104.364722332] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733105.960704999] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733107.461826090] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733108.962158411] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733110.561073699] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733112.062636669] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733113.676205996] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733115.262501835] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733116.861035762] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733118.366123272] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733119.869748148] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733121.461057476] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733122.961238925] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733124.462876963] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733126.065941795] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733127.667950418] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733129.264216752] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733130.771875333] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793733132.361214747] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+Traceback (most recent call last):
+  File "/home/awnish-kumar/drone_ws/src/drone_controller/drone_controller/ai_demo_landing.py", line 89, in <module>
+    main()
+  File "/home/awnish-kumar/drone_ws/src/drone_controller/drone_controller/ai_demo_landing.py", line 73, in main
+    rclpy.spin(node)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/__init__.py", line 247, in spin
+    executor.spin_once()
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 926, in spin_once
+    self._spin_once_impl(timeout_sec)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 907, in _spin_once_impl
+    handler, entity, node = self.wait_for_ready_callbacks(
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 877, in wait_for_ready_callbacks
+    return next(self._cb_iter)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 785, in _wait_for_ready_callbacks
+    raise ExternalShutdownException()
+rclpy.executors.ExternalShutdownException

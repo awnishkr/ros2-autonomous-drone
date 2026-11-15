@@ -1,0 +1,104 @@
+[INFO] [1793781620.933022101] [dynamic_autonomy]: Dynamic autonomy started | dry_run=False
+[WARN] [1793781621.021545768] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[INFO] [1793781622.942797060] [dynamic_autonomy]: Initial A* route: 6 points
+[INFO] [1793781623.120587519] [dynamic_autonomy]: TAKEOFF | XYZ=(-0.00, -0.00, 0.05) | Waypoint=1/5 | Unknown cells=0
+[INFO] [1793781625.122784728] [dynamic_autonomy]: TAKEOFF | XYZ=(-0.00, -0.00, 0.50) | Waypoint=1/5 | Unknown cells=0
+[INFO] [1793781627.220955438] [dynamic_autonomy]: TAKEOFF | XYZ=(-0.00, -0.00, 1.03) | Waypoint=1/5 | Unknown cells=0
+[INFO] [1793781629.226047272] [dynamic_autonomy]: TAKEOFF | XYZ=(-0.00, -0.00, 1.52) | Waypoint=1/5 | Unknown cells=1
+[INFO] [1793781631.320783523] [dynamic_autonomy]: TAKEOFF | XYZ=(-0.00, -0.00, 1.99) | Waypoint=1/5 | Unknown cells=1
+[INFO] [1793781632.523471482] [dynamic_autonomy]: Takeoff complete. Starting A* navigation.
+[INFO] [1793781633.325021274] [dynamic_autonomy]: NAVIGATE | XYZ=(-0.01, 0.03, 2.02) | Waypoint=1/5 | Unknown cells=2
+[INFO] [1793781635.327024733] [dynamic_autonomy]: NAVIGATE | XYZ=(-0.15, 0.37, 2.00) | Waypoint=1/5 | Unknown cells=6
+[INFO] [1793781637.420927442] [dynamic_autonomy]: NAVIGATE | XYZ=(-0.29, 0.74, 2.00) | Waypoint=1/5 | Unknown cells=6
+[INFO] [1793781639.437694110] [dynamic_autonomy]: NAVIGATE | XYZ=(-0.42, 1.08, 2.00) | Waypoint=1/5 | Unknown cells=6
+[INFO] [1793781641.532428778] [dynamic_autonomy]: NAVIGATE | XYZ=(-0.57, 1.44, 2.00) | Waypoint=1/5 | Unknown cells=7
+[INFO] [1793781643.524170279] [dynamic_autonomy]: NAVIGATE | XYZ=(-0.70, 1.78, 2.00) | Waypoint=1/5 | Unknown cells=8
+[INFO] [1793781645.631421780] [dynamic_autonomy]: NAVIGATE | XYZ=(-0.82, 2.10, 2.00) | Waypoint=1/5 | Unknown cells=9
+[INFO] [1793781647.628085572] [dynamic_autonomy]: NAVIGATE | XYZ=(-0.95, 2.44, 2.00) | Waypoint=1/5 | Unknown cells=9
+[INFO] [1793781649.744433032] [dynamic_autonomy]: NAVIGATE | XYZ=(-1.08, 2.77, 2.00) | Waypoint=1/5 | Unknown cells=9
+[INFO] [1793781651.821135241] [dynamic_autonomy]: NAVIGATE | XYZ=(-1.20, 3.12, 2.00) | Waypoint=1/5 | Unknown cells=9
+[INFO] [1793781652.027633908] [dynamic_autonomy]: Waypoint 1 reached
+[INFO] [1793781653.921628409] [dynamic_autonomy]: NAVIGATE | XYZ=(-1.22, 3.37, 2.00) | Waypoint=2/5 | Unknown cells=9
+[INFO] [1793781655.923222368] [dynamic_autonomy]: NAVIGATE | XYZ=(-1.23, 3.73, 2.00) | Waypoint=2/5 | Unknown cells=9
+[INFO] [1793781657.924657786] [dynamic_autonomy]: NAVIGATE | XYZ=(-1.24, 4.10, 2.00) | Waypoint=2/5 | Unknown cells=9
+[INFO] [1793781660.022930495] [dynamic_autonomy]: NAVIGATE | XYZ=(-1.24, 4.49, 2.00) | Waypoint=2/5 | Unknown cells=9
+[INFO] [1793781662.122674163] [dynamic_autonomy]: NAVIGATE | XYZ=(-1.25, 4.85, 2.00) | Waypoint=2/5 | Unknown cells=9
+[INFO] [1793781664.022891330] [dynamic_autonomy]: Waypoint 2 reached
+[INFO] [1793781664.123018622] [dynamic_autonomy]: NAVIGATE | XYZ=(-1.25, 5.14, 2.00) | Waypoint=3/5 | Unknown cells=10
+[INFO] [1793781666.122801039] [dynamic_autonomy]: NAVIGATE | XYZ=(-1.09, 5.30, 2.00) | Waypoint=3/5 | Unknown cells=10
+[INFO] [1793781668.221073374] [dynamic_autonomy]: NAVIGATE | XYZ=(-0.80, 5.56, 2.00) | Waypoint=3/5 | Unknown cells=10
+[WARN] [1793781669.023068749] [dynamic_autonomy]: SAFETY STOP! Clearance: 1.7931004762649536
+[WARN] [1793781670.128425166] [dynamic_autonomy]: Recovery proposed using live LiDAR
+[INFO] [1793781670.330140125] [dynamic_autonomy]: RECOVER | XYZ=(-0.63, 5.71, 2.00) | Waypoint=3/5 | Unknown cells=10
+[INFO] [1793781672.422834209] [dynamic_autonomy]: RECOVER | XYZ=(-0.76, 5.71, 2.00) | Waypoint=3/5 | Unknown cells=10
+[INFO] [1793781674.425415377] [dynamic_autonomy]: RECOVER | XYZ=(-0.92, 5.71, 2.00) | Waypoint=3/5 | Unknown cells=10
+[INFO] [1793781676.523067836] [dynamic_autonomy]: RECOVER | XYZ=(-1.08, 5.71, 2.00) | Waypoint=3/5 | Unknown cells=10
+[INFO] [1793781678.528911837] [dynamic_autonomy]: RECOVER | XYZ=(-1.24, 5.71, 2.00) | Waypoint=3/5 | Unknown cells=10
+[INFO] [1793781680.532769588] [dynamic_autonomy]: RECOVER | XYZ=(-1.39, 5.71, 2.00) | Waypoint=3/5 | Unknown cells=10
+[INFO] [1793781682.624167172] [dynamic_autonomy]: RECOVER | XYZ=(-1.57, 5.71, 2.00) | Waypoint=3/5 | Unknown cells=10
+[INFO] [1793781684.493247007] [dynamic_autonomy]: NEW A* ROUTE: 7 waypoints
+[INFO] [1793781684.626160132] [dynamic_autonomy]: NAVIGATE | XYZ=(-1.73, 5.71, 2.00) | Waypoint=1/6 | Unknown cells=10
+[INFO] [1793781684.923583298] [dynamic_autonomy]: Waypoint 1 reached
+[INFO] [1793781686.724545466] [dynamic_autonomy]: NAVIGATE | XYZ=(-1.71, 5.90, 2.00) | Waypoint=2/6 | Unknown cells=10
+[INFO] [1793781688.724090967] [dynamic_autonomy]: NAVIGATE | XYZ=(-1.65, 6.26, 2.00) | Waypoint=2/6 | Unknown cells=10
+[INFO] [1793781690.821085510] [dynamic_autonomy]: NAVIGATE | XYZ=(-1.59, 6.64, 2.00) | Waypoint=2/6 | Unknown cells=10
+[INFO] [1793781692.921099094] [dynamic_autonomy]: NAVIGATE | XYZ=(-1.54, 6.98, 2.00) | Waypoint=2/6 | Unknown cells=10
+[INFO] [1793781694.926226636] [dynamic_autonomy]: NAVIGATE | XYZ=(-1.48, 7.32, 2.00) | Waypoint=2/6 | Unknown cells=16
+[INFO] [1793781696.925995721] [dynamic_autonomy]: NAVIGATE | XYZ=(-1.42, 7.69, 2.00) | Waypoint=2/6 | Unknown cells=18
+[INFO] [1793781698.924829513] [dynamic_autonomy]: NAVIGATE | XYZ=(-1.36, 8.07, 2.00) | Waypoint=2/6 | Unknown cells=18
+[INFO] [1793781701.022011973] [dynamic_autonomy]: NAVIGATE | XYZ=(-1.30, 8.45, 2.00) | Waypoint=2/6 | Unknown cells=18
+[INFO] [1793781702.220248015] [dynamic_autonomy]: Waypoint 2 reached
+[INFO] [1793781703.043596432] [dynamic_autonomy]: NAVIGATE | XYZ=(-1.25, 8.66, 2.00) | Waypoint=3/6 | Unknown cells=18
+[INFO] [1793781705.122006808] [dynamic_autonomy]: NAVIGATE | XYZ=(-0.93, 8.84, 2.00) | Waypoint=3/6 | Unknown cells=18
+[INFO] [1793781707.222119392] [dynamic_autonomy]: NAVIGATE | XYZ=(-0.62, 9.01, 2.00) | Waypoint=3/6 | Unknown cells=18
+[INFO] [1793781709.323053268] [dynamic_autonomy]: NAVIGATE | XYZ=(-0.28, 9.21, 2.00) | Waypoint=3/6 | Unknown cells=18
+[INFO] [1793781711.328245811] [dynamic_autonomy]: NAVIGATE | XYZ=(0.06, 9.39, 2.00) | Waypoint=3/6 | Unknown cells=18
+[INFO] [1793781712.220204020] [dynamic_autonomy]: Waypoint 3 reached
+[INFO] [1793781713.446829854] [dynamic_autonomy]: NAVIGATE | XYZ=(0.27, 9.46, 2.00) | Waypoint=4/6 | Unknown cells=18
+[INFO] [1793781715.523024438] [dynamic_autonomy]: NAVIGATE | XYZ=(0.66, 9.46, 2.00) | Waypoint=4/6 | Unknown cells=18
+[INFO] [1793781717.522235689] [dynamic_autonomy]: NAVIGATE | XYZ=(1.02, 9.47, 2.00) | Waypoint=4/6 | Unknown cells=18
+[INFO] [1793781719.530776982] [dynamic_autonomy]: NAVIGATE | XYZ=(1.42, 9.48, 2.00) | Waypoint=4/6 | Unknown cells=18
+[INFO] [1793781721.625045691] [dynamic_autonomy]: NAVIGATE | XYZ=(1.78, 9.49, 2.00) | Waypoint=4/6 | Unknown cells=18
+[INFO] [1793781723.623487692] [dynamic_autonomy]: NAVIGATE | XYZ=(2.16, 9.49, 2.00) | Waypoint=4/6 | Unknown cells=19
+[INFO] [1793781725.723267401] [dynamic_autonomy]: NAVIGATE | XYZ=(2.56, 9.50, 2.00) | Waypoint=4/6 | Unknown cells=21
+[INFO] [1793781727.821173777] [dynamic_autonomy]: NAVIGATE | XYZ=(2.91, 9.50, 2.00) | Waypoint=4/6 | Unknown cells=21
+[INFO] [1793781729.222031695] [dynamic_autonomy]: Waypoint 4 reached
+[INFO] [1793781729.828227070] [dynamic_autonomy]: NAVIGATE | XYZ=(3.16, 9.50, 2.00) | Waypoint=5/6 | Unknown cells=21
+[INFO] [1793781731.922138737] [dynamic_autonomy]: NAVIGATE | XYZ=(3.43, 9.25, 2.00) | Waypoint=5/6 | Unknown cells=21
+[INFO] [1793781733.933777113] [dynamic_autonomy]: NAVIGATE | XYZ=(3.69, 9.02, 2.00) | Waypoint=5/6 | Unknown cells=21
+[INFO] [1793781735.942867739] [dynamic_autonomy]: NAVIGATE | XYZ=(3.95, 8.77, 2.00) | Waypoint=5/6 | Unknown cells=21
+[INFO] [1793781738.028027949] [dynamic_autonomy]: NAVIGATE | XYZ=(4.22, 8.52, 2.00) | Waypoint=5/6 | Unknown cells=21
+[INFO] [1793781739.922807991] [dynamic_autonomy]: Waypoint 5 reached
+[INFO] [1793781740.128195700] [dynamic_autonomy]: NAVIGATE | XYZ=(4.42, 8.33, 2.00) | Waypoint=6/6 | Unknown cells=21
+[INFO] [1793781742.326393909] [dynamic_autonomy]: NAVIGATE | XYZ=(4.48, 8.07, 2.00) | Waypoint=6/6 | Unknown cells=21
+[INFO] [1793781744.320906035] [dynamic_autonomy]: NAVIGATE | XYZ=(4.54, 7.70, 2.00) | Waypoint=6/6 | Unknown cells=21
+[INFO] [1793781746.325913411] [dynamic_autonomy]: NAVIGATE | XYZ=(4.61, 7.34, 2.00) | Waypoint=6/6 | Unknown cells=21
+[INFO] [1793781748.421074787] [dynamic_autonomy]: NAVIGATE | XYZ=(4.67, 6.97, 2.00) | Waypoint=6/6 | Unknown cells=21
+[INFO] [1793781750.520937413] [dynamic_autonomy]: NAVIGATE | XYZ=(4.73, 6.63, 2.00) | Waypoint=6/6 | Unknown cells=21
+[INFO] [1793781752.523683997] [dynamic_autonomy]: NAVIGATE | XYZ=(4.78, 6.34, 2.00) | Waypoint=6/6 | Unknown cells=21
+[INFO] [1793781754.526158748] [dynamic_autonomy]: NAVIGATE | XYZ=(4.84, 6.00, 2.00) | Waypoint=6/6 | Unknown cells=22
+[INFO] [1793781756.620783583] [dynamic_autonomy]: NAVIGATE | XYZ=(4.90, 5.65, 2.00) | Waypoint=6/6 | Unknown cells=22
+[INFO] [1793781758.621117542] [dynamic_autonomy]: NAVIGATE | XYZ=(4.95, 5.34, 2.00) | Waypoint=6/6 | Unknown cells=23
+[INFO] [1793781760.124565918] [dynamic_autonomy]: Destination reached. Hovering.
+[INFO] [1793781760.623144168] [dynamic_autonomy]: HOVER | XYZ=(4.99, 5.10, 2.00) | Waypoint=7/6 | Unknown cells=25
+[INFO] [1793781762.624128210] [dynamic_autonomy]: HOVER | XYZ=(5.00, 5.04, 2.00) | Waypoint=7/6 | Unknown cells=26
+[INFO] [1793781764.631524961] [dynamic_autonomy]: HOVER | XYZ=(5.00, 5.01, 2.00) | Waypoint=7/6 | Unknown cells=26
+[INFO] [1793781765.220618628] [dynamic_autonomy]: Hover complete. Landing.
+Traceback (most recent call last):
+  File "/home/awnish-kumar/drone_ws/src/drone_controller/drone_controller/dynamic_ai_handoff.py", line 690, in <module>
+    main()
+  File "/home/awnish-kumar/drone_ws/src/drone_controller/drone_controller/dynamic_ai_handoff.py", line 674, in main
+    rclpy.spin(node)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/__init__.py", line 247, in spin
+    executor.spin_once()
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 926, in spin_once
+    self._spin_once_impl(timeout_sec)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 907, in _spin_once_impl
+    handler, entity, node = self.wait_for_ready_callbacks(
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 877, in wait_for_ready_callbacks
+    return next(self._cb_iter)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 785, in _wait_for_ready_callbacks
+    raise ExternalShutdownException()
+rclpy.executors.ExternalShutdownException

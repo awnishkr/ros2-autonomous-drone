@@ -16,10 +16,8 @@ class DynamicNavigationPreview(Node):
     def __init__(self):
         super().__init__('dynamic_navigation_preview')
 
-        route_file = (
-            Path.home()
-            / 'drone_ws/src/drone_description/worlds/astar_route.json'
-        )
+        route_file = (Path(__file__).resolve().parents[3] /
+                      'src/drone_description/worlds/astar_route.json')
 
         route = json.loads(route_file.read_text())
 

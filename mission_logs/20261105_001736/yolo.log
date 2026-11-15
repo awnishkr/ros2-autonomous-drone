@@ -1,0 +1,148 @@
+[INFO] [1793818066.257692892] [yolo11n_pad_detector]: Pretrained neural network loaded
+[INFO] [1793818066.258389087] [yolo11n_pad_detector]: Waiting for live Gazebo images...
+[INFO] [1793818112.584365420] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793818115.398995319] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793818119.811147305] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793818123.772546931] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793818126.630487194] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793818131.655307205] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793818135.087497966] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793818139.178543088] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793818144.701351443] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793818147.881087744] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793818151.102567327] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793818154.578624323] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793818159.529758061] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793818162.333207035] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793818165.535331783] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793818169.239725080] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793818172.012463608] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793818175.549540978] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793818178.039724811] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793818181.746650876] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793818184.548125105] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793818187.309598085] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793818189.460671296] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793818192.797379193] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793818195.509804875] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793818198.159367548] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793818201.810487662] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793818205.397620681] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793818209.623439035] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793818212.717164719] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793818216.183326764] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793818219.661567097] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793818222.884439127] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793818226.249089237] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793818228.760571709] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793818231.892449610] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.213
+[INFO] [1793818233.386549301] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.85 | Centre: (0.973, 0.039)
+[INFO] [1793818233.696713621] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.88 | Centre: (0.967, 0.040)
+[INFO] [1793818234.084290946] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.88 | Centre: (0.960, 0.040)
+[INFO] [1793818235.498824761] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.918, 0.055)
+[INFO] [1793818237.500056746] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.823, 0.067)
+[INFO] [1793818237.931507767] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.94 | Centre: (0.800, 0.073)
+[INFO] [1793818239.383834918] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.741, 0.085)
+[INFO] [1793818239.736450195] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.716, 0.090)
+[INFO] [1793818240.687524117] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.669, 0.099)
+[INFO] [1793818241.175305642] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.645, 0.104)
+[INFO] [1793818241.659351773] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.610, 0.110)
+[INFO] [1793818242.192787458] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.585, 0.115)
+[INFO] [1793818243.351389307] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.92 | Centre: (0.515, 0.127)
+[INFO] [1793818244.197848004] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.94 | Centre: (0.479, 0.135)
+[INFO] [1793818244.650749885] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.94 | Centre: (0.455, 0.141)
+[INFO] [1793818245.242747336] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.94 | Centre: (0.431, 0.144)
+[INFO] [1793818245.893489964] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.395, 0.153)
+[INFO] [1793818246.373315822] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.384, 0.154)
+[INFO] [1793818246.857328850] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.372, 0.155)
+[INFO] [1793818247.250269243] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.94 | Centre: (0.348, 0.161)
+[INFO] [1793818248.200835376] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.276, 0.174)
+[INFO] [1793818249.151247900] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.228, 0.180)
+[INFO] [1793818249.619735608] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.213, 0.183)
+[INFO] [1793818250.154424314] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.209, 0.183)
+[INFO] [1793818250.569728553] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.94 | Centre: (0.221, 0.185)
+[INFO] [1793818251.498006354] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.205, 0.186)
+[INFO] [1793818252.239534499] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.198, 0.188)
+[INFO] [1793818253.045097192] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.195, 0.189)
+[INFO] [1793818253.474754508] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.194, 0.190)
+[INFO] [1793818254.001412418] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.193, 0.189)
+[INFO] [1793818254.832779194] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.191, 0.187)
+[INFO] [1793818255.836546805] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.92 | Centre: (0.179, 0.177)
+[INFO] [1793818256.706422795] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.94 | Centre: (0.198, 0.196)
+[INFO] [1793818257.052691614] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.95 | Centre: (0.201, 0.198)
+[INFO] [1793818257.463055812] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.204, 0.198)
+[INFO] [1793818257.899716674] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.212, 0.208)
+[INFO] [1793818258.285848142] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.214, 0.211)
+[INFO] [1793818260.112714156] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.261, 0.259)
+[INFO] [1793818260.813219047] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.92 | Centre: (0.299, 0.296)
+[INFO] [1793818261.571582169] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.92 | Centre: (0.296, 0.289)
+[INFO] [1793818262.197534144] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.92 | Centre: (0.326, 0.323)
+[INFO] [1793818262.999571456] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.362, 0.359)
+[INFO] [1793818263.689310075] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.389, 0.381)
+[INFO] [1793818264.274580696] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.412, 0.409)
+[INFO] [1793818264.780368760] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.92 | Centre: (0.425, 0.424)
+[INFO] [1793818265.447387635] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.435, 0.434)
+[INFO] [1793818265.931118352] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.91 | Centre: (0.447, 0.448)
+[INFO] [1793818266.913489446] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.92 | Centre: (0.461, 0.459)
+[INFO] [1793818267.614637845] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.92 | Centre: (0.467, 0.463)
+[INFO] [1793818268.581723928] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.92 | Centre: (0.476, 0.476)
+[INFO] [1793818269.746660573] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.92 | Centre: (0.485, 0.484)
+[INFO] [1793818270.180630504] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.485, 0.484)
+[INFO] [1793818270.796283259] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.484, 0.484)
+[INFO] [1793818271.496725427] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.484, 0.484)
+[INFO] [1793818272.063729412] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.92 | Centre: (0.482, 0.484)
+[INFO] [1793818272.562139528] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.92 | Centre: (0.483, 0.483)
+[INFO] [1793818273.096129407] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.92 | Centre: (0.484, 0.484)
+[INFO] [1793818273.566770395] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.92 | Centre: (0.484, 0.484)
+[INFO] [1793818274.050782277] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.92 | Centre: (0.486, 0.486)
+[INFO] [1793818274.412180138] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.92 | Centre: (0.487, 0.483)
+[INFO] [1793818274.850511288] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.492, 0.490)
+[INFO] [1793818276.660784920] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.496, 0.487)
+[INFO] [1793818277.019740137] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.496, 0.488)
+[INFO] [1793818277.658221079] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.496, 0.493)
+[INFO] [1793818278.064780788] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.496, 0.495)
+[INFO] [1793818278.705672352] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.497, 0.491)
+[INFO] [1793818279.036852145] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.498, 0.493)
+[INFO] [1793818279.534688032] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.499, 0.488)
+[INFO] [1793818280.598541220] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.92 | Centre: (0.501, 0.503)
+[INFO] [1793818282.013054070] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.88 | Centre: (0.500, 0.492)
+[INFO] [1793818282.594722766] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.86 | Centre: (0.498, 0.488)
+[INFO] [1793818283.344248770] [yolo11n_pad_detector]: LANDING PAD DETECTED | Confidence: 0.82 | Centre: (0.498, 0.487)
+[INFO] [1793818285.344668398] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.039
+[INFO] [1793818291.383200018] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.001
+[INFO] [1793818295.108385946] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.002
+[INFO] [1793818298.076444702] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.004
+[INFO] [1793818301.694578287] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.002
+[INFO] [1793818304.151585208] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793818306.814305530] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.000
+Traceback (most recent call last):
+  File "/home/awnish-kumar/drone_landing_assets/live_landing_detector.py", line 169, in main
+    rclpy.spin(node)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/__init__.py", line 247, in spin
+    executor.spin_once()
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 926, in spin_once
+    self._spin_once_impl(timeout_sec)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 907, in _spin_once_impl
+    handler, entity, node = self.wait_for_ready_callbacks(
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 877, in wait_for_ready_callbacks
+    return next(self._cb_iter)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 785, in _wait_for_ready_callbacks
+    raise ExternalShutdownException()
+rclpy.executors.ExternalShutdownException
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/awnish-kumar/drone_landing_assets/live_landing_detector.py", line 178, in <module>
+    main()
+  File "/home/awnish-kumar/drone_landing_assets/live_landing_detector.py", line 174, in main
+    rclpy.shutdown()
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/__init__.py", line 134, in shutdown
+    _shutdown(context=context)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/utilities.py", line 82, in shutdown
+    context.shutdown()
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/context.py", line 129, in shutdown
+    self.__context.shutdown()
+rclpy._rclpy_pybind11.RCLError: failed to shutdown: rcl_shutdown already called on the given context, at ./src/rcl/init.c:333

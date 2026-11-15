@@ -25,7 +25,7 @@ class MovingMapper(Node):
         self.free = set()
         self.scans = 0
 
-        folder = Path.home() / 'drone_ws/maps'
+        folder = Path(__file__).resolve().parents[3] / 'maps'
         folder.mkdir(parents=True, exist_ok=True)
 
         timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')

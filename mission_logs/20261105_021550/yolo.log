@@ -1,0 +1,63 @@
+[INFO] [1793825161.262215701] [yolo11n_pad_detector]: Pretrained neural network loaded
+[INFO] [1793825161.264163537] [yolo11n_pad_detector]: Waiting for live Gazebo images...
+[INFO] [1793825174.716034624] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793825178.710143089] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793825183.259353138] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793825187.129680999] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793825190.818307593] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793825194.580322827] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793825198.091583996] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793825201.442252382] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793825204.039152854] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793825208.125358975] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793825211.184090582] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793825213.555057232] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793825219.146650914] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793825223.307667525] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793825226.933836415] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793825231.512432322] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793825234.134434517] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793825237.378561554] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793825240.874321209] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793825242.132922617] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793825244.398947238] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793825246.634101070] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793825249.872609029] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793825252.398915573] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793825255.273829360] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793825259.301524262] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793825262.730594937] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.008
+[INFO] [1793825266.038905875] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.003
+[INFO] [1793825268.869541825] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.003
+[INFO] [1793825272.458007174] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.003
+Traceback (most recent call last):
+  File "/home/awnish-kumar/drone_landing_assets/live_landing_detector.py", line 169, in main
+    rclpy.spin(node)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/__init__.py", line 247, in spin
+    executor.spin_once()
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 926, in spin_once
+    self._spin_once_impl(timeout_sec)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 907, in _spin_once_impl
+    handler, entity, node = self.wait_for_ready_callbacks(
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 877, in wait_for_ready_callbacks
+    return next(self._cb_iter)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 785, in _wait_for_ready_callbacks
+    raise ExternalShutdownException()
+rclpy.executors.ExternalShutdownException
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/awnish-kumar/drone_landing_assets/live_landing_detector.py", line 178, in <module>
+    main()
+  File "/home/awnish-kumar/drone_landing_assets/live_landing_detector.py", line 174, in main
+    rclpy.shutdown()
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/__init__.py", line 134, in shutdown
+    _shutdown(context=context)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/utilities.py", line 82, in shutdown
+    context.shutdown()
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/context.py", line 129, in shutdown
+    self.__context.shutdown()
+rclpy._rclpy_pybind11.RCLError: failed to shutdown: rcl_shutdown already called on the given context, at ./src/rcl/init.c:333

@@ -1,0 +1,35 @@
+[INFO] [1793859815.354109152] [vision_landing_controller]: Vision Landing Controller | flight_enabled=True
+[INFO] [1793859815.373247902] [vision_landing_controller]: PRECISION LANDING | descent=True | auto_motor_shutdown=True
+[INFO] [1793859815.378865193] [vision_landing_controller]: AI LANDING READY — WAITING FOR A* HANDOFF
+[INFO] [1793860001.239287449] [vision_landing_controller]: A* NAVIGATION COMPLETE — AI LANDING ACTIVATED
+[INFO] [1793860001.332490699] [vision_landing_controller]: VISION ALIGNING | z=2.000 | vx=0.120 vy=0.120 vz=-0.150
+[INFO] [1793860002.845807033] [vision_landing_controller]: VISION ALIGNING | z=1.907 | vx=0.120 vy=0.120 vz=-0.150
+[INFO] [1793860004.433890825] [vision_landing_controller]: VISION ALIGNING | z=1.733 | vx=0.120 vy=0.120 vz=-0.140
+[INFO] [1793860006.031222618] [vision_landing_controller]: VISION ALIGNING | z=1.586 | vx=0.120 vy=0.120 vz=-0.052
+[INFO] [1793860007.533069493] [vision_landing_controller]: VISION ALIGNING | z=1.520 | vx=0.120 vy=0.120 vz=-0.012
+[INFO] [1793860009.128614536] [vision_landing_controller]: VISION ALIGNING | z=1.498 | vx=0.120 vy=0.120 vz=0.001
+[INFO] [1793860010.737626245] [vision_landing_controller]: VISION ALIGNING | z=1.497 | vx=0.090 vy=0.083 vz=0.002
+[INFO] [1793860012.233299579] [vision_landing_controller]: VISION ALIGNING | z=1.499 | vx=0.061 vy=0.059 vz=0.000
+[INFO] [1793860013.828606955] [vision_landing_controller]: VISION ALIGNING | z=1.500 | vx=0.042 vy=0.041 vz=-0.000
+[INFO] [1793860015.332829372] [vision_landing_controller]: VISION ALIGNING | z=1.500 | vx=0.025 vy=0.025 vz=-0.000
+[INFO] [1793860016.930891873] [vision_landing_controller]: VISION ALIGNING | z=1.500 | vx=0.020 vy=0.019 vz=-0.000
+[INFO] [1793860018.530307540] [vision_landing_controller]: ALIGNMENT VERIFYING | z=1.500 | vx=0.000 vy=0.000 vz=-0.000
+[INFO] [1793860020.129447749] [vision_landing_controller]: VISION-GUIDED DESCENT | z=1.491 | vx=0.008 vy=0.008 vz=-0.060
+[INFO] [1793860021.635035292] [vision_landing_controller]: VISION-GUIDED DESCENT | z=1.434 | vx=0.008 vy=0.008 vz=-0.060
+[INFO] [1793860023.234773376] [vision_landing_controller]: VISION-GUIDED DESCENT | z=1.354 | vx=0.005 vy=0.005 vz=-0.060
+[INFO] [1793860024.833645752] [vision_landing_controller]: VISION-GUIDED DESCENT | z=1.273 | vx=0.003 vy=0.003 vz=-0.060
+[INFO] [1793860026.431322044] [vision_landing_controller]: VISION-GUIDED DESCENT | z=1.197 | vx=0.008 vy=0.002 vz=-0.060
+[INFO] [1793860028.032109337] [vision_landing_controller]: VISION-GUIDED DESCENT | z=1.114 | vx=0.005 vy=0.001 vz=-0.060
+[INFO] [1793860029.628807879] [vision_landing_controller]: VISION-GUIDED DESCENT | z=1.031 | vx=0.002 vy=-0.000 vz=-0.060
+[INFO] [1793860031.230441546] [vision_landing_controller]: VISION-GUIDED DESCENT | z=0.945 | vx=0.010 vy=-0.000 vz=-0.060
+[INFO] [1793860032.731540339] [vision_landing_controller]: FINAL SLOW DESCENT | z=0.876 | vx=0.000 vy=0.000 vz=-0.050
+[INFO] [1793860034.336199340] [vision_landing_controller]: FINAL SLOW DESCENT | z=0.805 | vx=0.000 vy=0.000 vz=-0.050
+[INFO] [1793860035.837112674] [vision_landing_controller]: FINAL SLOW DESCENT | z=0.746 | vx=0.000 vy=0.000 vz=-0.050
+[INFO] [1793860037.428883924] [vision_landing_controller]: FINAL SLOW DESCENT | z=0.697 | vx=0.000 vy=0.000 vz=-0.050
+[INFO] [1793860038.929324633] [vision_landing_controller]: FINAL SLOW DESCENT | z=0.653 | vx=0.000 vy=0.000 vz=-0.050
+[INFO] [1793860040.432162009] [vision_landing_controller]: FINAL SLOW DESCENT | z=0.606 | vx=0.000 vy=0.000 vz=-0.050
+[INFO] [1793860042.037290177] [vision_landing_controller]: FINAL SLOW DESCENT | z=0.559 | vx=0.000 vy=0.000 vz=-0.050
+[INFO] [1793860043.637529594] [vision_landing_controller]: FINAL SLOW DESCENT | z=0.509 | vx=0.000 vy=0.000 vz=-0.050
+[INFO] [1793860045.233202845] [vision_landing_controller]: FINAL SLOW DESCENT | z=0.449 | vx=0.000 vy=0.000 vz=-0.050
+[INFO] [1793860046.837349679] [vision_landing_controller]: FINAL SLOW DESCENT | z=0.386 | vx=0.000 vy=0.000 vz=-0.050
+[INFO] [1793860048.430160430] [vision_landing_controller]: FINAL SLOW DESCENT | z=0.318 | vx=0.000 vy=0.000 vz=-0.050

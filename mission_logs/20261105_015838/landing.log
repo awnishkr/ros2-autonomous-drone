@@ -1,0 +1,271 @@
+[INFO] [1793824128.619596742] [vision_landing_controller]: Vision Landing Controller | flight_enabled=True
+[INFO] [1793824128.626027451] [vision_landing_controller]: PRECISION LANDING | descent=True | auto_motor_shutdown=True
+[INFO] [1793824128.627648743] [vision_landing_controller]: AI LANDING READY — WAITING FOR A* HANDOFF
+[INFO] [1793824289.672677652] [vision_landing_controller]: A* NAVIGATION COMPLETE — AI LANDING ACTIVATED
+[INFO] [1793824289.708555252] [vision_landing_controller]: VISION ALIGNING | z=2.000 | vx=0.120 vy=0.120 vz=-0.150
+[INFO] [1793824291.214115978] [vision_landing_controller]: VISION ALIGNING | z=1.879 | vx=0.120 vy=0.120 vz=-0.150
+[INFO] [1793824292.814657253] [vision_landing_controller]: VISION ALIGNING | z=1.662 | vx=0.120 vy=0.120 vz=-0.097
+[INFO] [1793824294.408520071] [vision_landing_controller]: VISION ALIGNING | z=1.540 | vx=0.120 vy=0.120 vz=-0.024
+[INFO] [1793824296.008489271] [vision_landing_controller]: VISION ALIGNING | z=1.501 | vx=0.120 vy=0.120 vz=-0.001
+[INFO] [1793824297.609085102] [vision_landing_controller]: VISION ALIGNING | z=1.497 | vx=0.100 vy=0.098 vz=0.002
+[INFO] [1793824299.115039434] [vision_landing_controller]: VISION ALIGNING | z=1.498 | vx=0.080 vy=0.077 vz=0.001
+[INFO] [1793824300.705869812] [vision_landing_controller]: VISION ALIGNING | z=1.500 | vx=0.049 vy=0.047 vz=0.000
+[INFO] [1793824302.205884150] [vision_landing_controller]: VISION ALIGNING | z=1.500 | vx=0.031 vy=0.031 vz=-0.000
+[INFO] [1793824303.808062875] [vision_landing_controller]: VISION ALIGNING | z=1.500 | vx=0.022 vy=0.020 vz=-0.000
+[INFO] [1793824305.410338689] [vision_landing_controller]: ALIGNMENT VERIFYING | z=1.500 | vx=0.000 vy=0.000 vz=-0.000
+[INFO] [1793824307.006674462] [vision_landing_controller]: ALIGNMENT VERIFYING | z=1.500 | vx=0.000 vy=0.000 vz=-0.000
+[INFO] [1793824308.511244404] [vision_landing_controller]: ALIGNMENT VERIFYING | z=1.500 | vx=0.000 vy=0.000 vz=-0.000
+[INFO] [1793824310.107384520] [vision_landing_controller]: VISION-GUIDED DESCENT | z=1.470 | vx=0.010 vy=0.010 vz=-0.060
+[INFO] [1793824311.609287678] [vision_landing_controller]: VISION-GUIDED DESCENT | z=1.399 | vx=0.009 vy=0.010 vz=-0.060
+[INFO] [1793824313.210628722] [vision_landing_controller]: VISION-GUIDED DESCENT | z=1.323 | vx=0.010 vy=0.008 vz=-0.060
+[INFO] [1793824314.814326439] [vision_landing_controller]: VISION-GUIDED DESCENT | z=1.257 | vx=0.005 vy=0.003 vz=-0.060
+[INFO] [1793824316.308091897] [vision_landing_controller]: VISION-GUIDED DESCENT | z=1.182 | vx=0.002 vy=0.002 vz=-0.060
+[INFO] [1793824317.905594578] [vision_landing_controller]: VISION-GUIDED DESCENT | z=1.105 | vx=0.005 vy=0.001 vz=-0.060
+[INFO] [1793824319.414549427] [vision_landing_controller]: VISION-GUIDED DESCENT | z=1.033 | vx=-0.002 vy=0.000 vz=-0.060
+[INFO] [1793824320.913627734] [vision_landing_controller]: VISION-GUIDED DESCENT | z=0.962 | vx=0.003 vy=-0.001 vz=-0.060
+[INFO] [1793824322.407041750] [vision_landing_controller]: FINAL SLOW DESCENT | z=0.893 | vx=0.000 vy=0.000 vz=-0.050
+[INFO] [1793824324.006067116] [vision_landing_controller]: FINAL SLOW DESCENT | z=0.830 | vx=0.000 vy=0.000 vz=-0.050
+[INFO] [1793824325.608001489] [vision_landing_controller]: FINAL SLOW DESCENT | z=0.770 | vx=0.000 vy=0.000 vz=-0.050
+[INFO] [1793824327.107360896] [vision_landing_controller]: FINAL SLOW DESCENT | z=0.711 | vx=0.000 vy=0.000 vz=-0.050
+[INFO] [1793824328.707127943] [vision_landing_controller]: FINAL SLOW DESCENT | z=0.648 | vx=0.000 vy=0.000 vz=-0.050
+[INFO] [1793824330.308591995] [vision_landing_controller]: FINAL SLOW DESCENT | z=0.592 | vx=0.000 vy=0.000 vz=-0.050
+[INFO] [1793824331.823391631] [vision_landing_controller]: FINAL SLOW DESCENT | z=0.532 | vx=0.000 vy=0.000 vz=-0.050
+[INFO] [1793824333.316055134] [vision_landing_controller]: FINAL SLOW DESCENT | z=0.477 | vx=0.000 vy=0.000 vz=-0.050
+[INFO] [1793824334.908881403] [vision_landing_controller]: FINAL SLOW DESCENT | z=0.415 | vx=0.000 vy=0.000 vz=-0.050
+[INFO] [1793824336.410632169] [vision_landing_controller]: FINAL SLOW DESCENT | z=0.346 | vx=0.000 vy=0.000 vz=-0.050
+[INFO] [1793824338.005567198] [vision_landing_controller]: FINAL SLOW DESCENT | z=0.282 | vx=0.000 vy=0.000 vz=-0.050
+[INFO] [1793824339.513050893] [vision_landing_controller]: FINAL SLOW DESCENT | z=0.235 | vx=0.000 vy=0.000 vz=-0.050
+[INFO] [1793824341.108081763] [vision_landing_controller]: FINAL SLOW DESCENT | z=0.171 | vx=0.000 vy=0.000 vz=-0.050
+[INFO] [1793824342.611989964] [vision_landing_controller]: FINAL SLOW DESCENT | z=0.111 | vx=0.000 vy=0.000 vz=-0.050
+[INFO] [1793824344.205788843] [vision_landing_controller]: FINAL SLOW DESCENT | z=0.050 | vx=0.000 vy=0.000 vz=-0.050
+[INFO] [1793824345.711763677] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824347.317419321] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824348.817852327] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824350.406056762] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824351.926005620] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824353.406558377] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824355.007960748] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824356.605556913] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824358.205865542] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824359.810437928] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824361.306170088] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824362.812521175] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824364.407449693] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824365.909985744] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824367.508265480] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824369.108587013] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824370.706544507] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824372.308456675] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824373.906874845] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824375.505440977] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824377.009301389] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824378.615343618] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824380.205856549] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824381.807857533] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824383.320098716] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824384.814844433] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824386.408066590] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824388.010477340] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824389.613426928] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824391.206372764] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824392.709256088] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824394.317358525] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824395.908923746] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824397.426511841] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824399.013140817] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824400.605633551] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824402.223889889] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824403.805979833] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824405.307310686] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824406.926138077] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824408.406936049] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824409.906189369] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824411.512063180] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824413.105985862] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824414.610547072] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824416.210551932] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824417.807672211] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824419.307045928] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824420.910014884] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824422.514598805] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824424.106203928] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824425.608529244] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824427.122094863] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824428.645979826] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824430.209219277] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824431.809314091] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824433.410928452] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824435.011145939] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824436.609544639] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824438.108460271] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824439.734958622] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824441.306429938] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824442.907079070] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824444.407390300] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824446.005563146] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824447.518613059] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824449.005801956] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824450.511958538] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824452.018136455] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824453.606940353] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824455.114963612] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824456.715969150] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824458.306423767] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824459.810451825] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824461.307681630] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824462.909465808] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824464.407094870] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824466.008665970] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824467.606995947] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824469.211078140] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824470.816836421] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824472.413062907] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824474.019986529] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824475.605553263] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824477.110565940] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824478.706622231] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824480.221940422] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824481.716110183] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824483.306236187] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824484.812574672] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824486.408120312] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824487.928569939] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824489.508584823] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824491.025555829] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824492.510208145] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824494.012226562] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824495.605830719] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824497.109097184] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824498.710245937] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824500.307023857] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824501.908114783] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824503.411198468] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824505.013325734] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824506.609987458] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824508.215145484] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824509.806907543] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824511.436604803] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824513.008564728] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824514.606032802] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824516.107136385] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824517.707803259] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824519.214633477] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824520.807955435] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824522.412011113] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824524.005557076] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824525.621486562] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824527.205858941] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824528.707094839] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824530.307682863] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824531.808224890] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824533.405491709] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824534.907361993] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824536.406313736] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824538.005588773] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824539.505803439] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824541.006258525] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824542.511001075] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824544.110493832] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824545.706826965] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824547.206885020] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824548.810054372] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824550.319145940] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824551.910110663] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824553.409810311] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824555.008107421] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824556.608115952] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824558.108372150] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824559.608157976] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824561.210039559] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824562.723477026] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824564.310016560] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824565.905466937] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824567.405630943] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824569.007676831] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824570.605546886] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824572.205579361] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824573.705664336] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824575.206449730] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824576.805621672] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824578.305467779] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824579.822159903] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824581.325533310] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824582.905941995] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824584.506309660] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824586.015111787] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824587.607114241] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824589.206201829] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824590.706952707] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824592.207935796] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824593.805531307] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824595.313446824] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824596.908385921] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824598.508546276] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824600.107612049] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824601.606938485] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824603.118610267] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824604.705517870] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824606.207172774] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824607.707942554] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824609.207949252] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824610.727489928] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824612.312092125] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824613.807963577] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824615.406367750] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824617.005663176] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824618.508610724] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824620.107525072] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824621.705549046] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824623.206209725] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824624.717331832] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824626.218417515] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824627.808847117] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824629.311543932] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824630.909549379] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824632.507577371] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824634.009630233] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824635.612528901] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824637.112870224] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824638.707837140] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824640.220416729] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824641.721949895] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824643.306061515] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824644.811084479] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824646.406504740] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824647.919401466] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824649.508222892] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824651.108086706] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824652.712321693] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824654.309097717] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824655.913626709] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824657.507874485] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824659.106226268] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824660.609365711] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824662.205809789] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824663.814056754] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824665.311130782] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824666.905904448] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824668.508068623] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824670.106059672] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824671.606878128] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824673.110488548] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824674.711941107] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793824676.209016858] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+Traceback (most recent call last):
+  File "/home/awnish-kumar/drone_ws/src/drone_controller/drone_controller/ai_demo_landing.py", line 91, in <module>
+    main()
+  File "/home/awnish-kumar/drone_ws/src/drone_controller/drone_controller/ai_demo_landing.py", line 75, in main
+    rclpy.spin(node)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/__init__.py", line 247, in spin
+    executor.spin_once()
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 926, in spin_once
+    self._spin_once_impl(timeout_sec)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 907, in _spin_once_impl
+    handler, entity, node = self.wait_for_ready_callbacks(
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 877, in wait_for_ready_callbacks
+    return next(self._cb_iter)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 785, in _wait_for_ready_callbacks
+    raise ExternalShutdownException()
+rclpy.executors.ExternalShutdownException

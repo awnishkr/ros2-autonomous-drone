@@ -1,0 +1,2 @@
+source /opt/ros/jazzy/setup.bash
+gz sim -r -v 3 ~/drone_ws/src/drone_description/worlds/dynamic_obstacle_test.sdf

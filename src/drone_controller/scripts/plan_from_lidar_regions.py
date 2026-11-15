@@ -6,7 +6,7 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 from functools import lru_cache
 
-ws = Path.home() / "drone_ws"
+ws = Path(__file__).resolve().parents[3]
 
 maps = ws / "maps"
 worlds = ws / "src/drone_description/worlds"

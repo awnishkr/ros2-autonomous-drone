@@ -1,0 +1,119 @@
+[INFO] [1793781622.133661227] [vision_landing_controller]: Vision Landing Controller | flight_enabled=True
+[INFO] [1793781622.143602643] [vision_landing_controller]: PRECISION LANDING | descent=True | auto_motor_shutdown=True
+[INFO] [1793781622.147865893] [vision_landing_controller]: AI LANDING READY — WAITING FOR A* HANDOFF
+[INFO] [1793781765.327131878] [vision_landing_controller]: A* NAVIGATION COMPLETE — AI LANDING ACTIVATED
+[INFO] [1793781765.366430420] [vision_landing_controller]: VISION ALIGNING | z=2.000 | vx=0.120 vy=0.120 vz=-0.150
+[INFO] [1793781766.870936337] [vision_landing_controller]: VISION ALIGNING | z=1.874 | vx=0.120 vy=0.120 vz=-0.150
+[INFO] [1793781768.466726672] [vision_landing_controller]: VISION ALIGNING | z=1.663 | vx=0.120 vy=0.120 vz=-0.098
+[INFO] [1793781769.967979631] [vision_landing_controller]: VISION ALIGNING | z=1.540 | vx=0.120 vy=0.120 vz=-0.024
+[INFO] [1793781771.468141423] [vision_landing_controller]: VISION ALIGNING | z=1.499 | vx=0.120 vy=0.120 vz=0.000
+[INFO] [1793781772.973690882] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.496 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781774.569412799] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.496 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781776.074419925] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.496 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781777.669615718] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.496 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781779.167619968] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.496 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781780.768165427] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.496 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781782.371614303] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.496 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781783.880598762] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.496 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781785.466642555] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.496 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781787.068563430] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.496 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781788.582545473] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.496 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781790.168576432] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.496 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781791.770225391] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.496 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781793.271044392] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.496 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781794.772700017] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.496 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781796.366811143] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.496 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781797.968570144] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.496 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781799.568820186] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.496 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781801.068974312] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.496 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781802.668715688] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.496 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781804.270824980] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.496 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781805.868875814] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.496 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781807.469039732] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.496 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781808.988548399] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.496 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781810.566399775] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.496 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781812.167285442] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.496 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781813.766466651] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.496 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781815.268064111] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.496 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781816.777406695] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.496 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781818.366524029] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.496 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781819.870812821] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.496 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781821.373680905] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.496 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781822.900659114] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.496 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781824.468502365] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.496 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781825.968775241] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.496 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781827.506397783] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.496 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781829.069284742] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.496 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781830.567143993] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.496 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781832.175434494] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.496 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781833.766735828] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781835.269802995] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781836.778201954] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781838.366615122] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781839.966277206] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781841.469242581] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781843.069079207] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781844.666243291] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781846.191146917] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781847.769517751] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781849.367266252] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781850.967968044] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781852.469248337] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781853.968850004] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781855.568084296] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781857.168225964] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781858.767530173] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781860.367572049] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781861.968435966] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781863.467715259] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781865.069585134] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781866.566605093] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781868.099773636] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781869.668716511] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781871.274683054] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781872.868042846] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781874.368859847] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781875.969926389] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781877.479100390] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781879.076056683] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781880.668063267] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781882.267608267] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781883.880614227] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781885.376710686] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781886.969444436] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781888.470547270] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781889.971742021] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781891.573487147] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781893.172737856] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781894.768218940] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781896.272904732] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781897.868256692] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781899.367756984] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781900.970568568] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781902.468685652] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781904.071627653] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781905.667842820] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781907.269652529] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781908.876602197] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781910.468507073] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781911.969191323] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781913.570591282] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793781915.168217117] [vision_landing_controller]: SAFETY HOLD: MOVEMENT BOUNDARY | z=1.497 | vx=0.000 vy=0.000 vz=0.000
+Traceback (most recent call last):
+  File "/home/awnish-kumar/drone_ws/src/drone_controller/drone_controller/ai_demo_landing.py", line 89, in <module>
+    main()
+  File "/home/awnish-kumar/drone_ws/src/drone_controller/drone_controller/ai_demo_landing.py", line 73, in main
+    rclpy.spin(node)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/__init__.py", line 247, in spin
+    executor.spin_once()
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 926, in spin_once
+    self._spin_once_impl(timeout_sec)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 907, in _spin_once_impl
+    handler, entity, node = self.wait_for_ready_callbacks(
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 877, in wait_for_ready_callbacks
+    return next(self._cb_iter)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 785, in _wait_for_ready_callbacks
+    raise ExternalShutdownException()
+rclpy.executors.ExternalShutdownException

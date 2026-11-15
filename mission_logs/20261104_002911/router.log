@@ -1,0 +1,107 @@
+[INFO] [1793732360.937405276] [ai_mission_router]: MISSION ROUTER ACTIVE — A* HAS CONTROL
+[INFO] [1793732500.870761256] [ai_mission_router]: A* COMPLETE — SWITCHING TO YOLO11n
+[INFO] [1793732555.809083780] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732555.904681139] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732556.007013482] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732556.106182104] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732556.211709626] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732556.306019064] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732556.407997280] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732556.507081819] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732556.639137774] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732556.705842357] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732556.808174492] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732556.913865431] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732557.014018349] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732557.107992827] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732557.205569818] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732557.304749274] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732557.404662275] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732557.505478779] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732557.605059445] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732557.707079495] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732557.814698566] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732557.906066159] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732558.006009034] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732558.105101448] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732558.211274306] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732558.307007915] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732558.404564157] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732558.509083133] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732558.607015043] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732558.707084585] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732558.817085999] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732558.905099705] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732559.005010122] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732559.108052634] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732559.208007551] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732559.304688998] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732559.404929874] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732559.504547374] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732559.605107043] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732559.707667470] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732559.808144223] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732559.904945045] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732560.005745799] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732560.106983054] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732560.209034730] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732560.308106810] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732560.405257675] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732560.508058895] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732560.605166385] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732560.717699016] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732560.806015890] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732560.908822484] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732561.005024804] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732561.105000638] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732561.205133265] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732561.307029272] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732561.406586230] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732561.505786228] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732561.606751441] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732561.706709775] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732561.805596021] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732561.906572651] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732562.006113858] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732562.105046272] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732562.206189860] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732562.307880201] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732562.405032899] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732562.507089408] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732562.605425360] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732562.706641074] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732562.805994281] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732562.906977994] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732563.007058662] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732563.111702888] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732563.206149160] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732563.309980800] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732563.404892074] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732563.505983078] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732563.608971966] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732563.709705177] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732563.804934244] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732563.907527463] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732564.006174375] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732564.106099459] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732564.205003997] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732564.306738463] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+[INFO] [1793732564.409044139] [ai_mission_router]: MOTOR SHUTDOWN LATCHED
+Traceback (most recent call last):
+  File "/home/awnish-kumar/drone_ws/src/drone_controller/drone_controller/ai_mission_router.py", line 165, in <module>
+    main()
+  File "/home/awnish-kumar/drone_ws/src/drone_controller/drone_controller/ai_mission_router.py", line 152, in main
+    rclpy.spin(node)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/__init__.py", line 247, in spin
+    executor.spin_once()
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 926, in spin_once
+    self._spin_once_impl(timeout_sec)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 907, in _spin_once_impl
+    handler, entity, node = self.wait_for_ready_callbacks(
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 877, in wait_for_ready_callbacks
+    return next(self._cb_iter)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 785, in _wait_for_ready_callbacks
+    raise ExternalShutdownException()
+rclpy.executors.ExternalShutdownException

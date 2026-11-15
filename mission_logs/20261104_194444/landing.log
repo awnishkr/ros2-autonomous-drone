@@ -1,0 +1,71 @@
+[INFO] [1793801693.098917236] [vision_landing_controller]: Vision Landing Controller | flight_enabled=True
+[INFO] [1793801693.101305178] [vision_landing_controller]: PRECISION LANDING | descent=True | auto_motor_shutdown=True
+[INFO] [1793801693.101705390] [vision_landing_controller]: AI LANDING READY — WAITING FOR A* HANDOFF
+[INFO] [1793801906.221448201] [vision_landing_controller]: A* NAVIGATION COMPLETE — AI LANDING ACTIVATED
+[INFO] [1793801906.293564703] [vision_landing_controller]: VISION ALIGNING | z=2.000 | vx=0.120 vy=0.120 vz=-0.150
+[INFO] [1793801907.795851505] [vision_landing_controller]: VISION ALIGNING | z=1.885 | vx=0.120 vy=0.120 vz=-0.150
+[INFO] [1793801909.294846161] [vision_landing_controller]: VISION ALIGNING | z=1.684 | vx=0.120 vy=0.120 vz=-0.111
+[INFO] [1793801910.897028765] [vision_landing_controller]: VISION ALIGNING | z=1.533 | vx=0.120 vy=0.120 vz=-0.020
+[INFO] [1793801912.495429629] [vision_landing_controller]: VISION ALIGNING | z=1.495 | vx=0.120 vy=0.120 vz=0.003
+[INFO] [1793801914.096394832] [vision_landing_controller]: VISION ALIGNING | z=1.496 | vx=0.085 vy=0.083 vz=0.002
+[INFO] [1793801915.597341729] [vision_landing_controller]: VISION ALIGNING | z=1.499 | vx=0.055 vy=0.054 vz=0.001
+[INFO] [1793801917.200570554] [vision_landing_controller]: VISION ALIGNING | z=1.500 | vx=0.038 vy=0.037 vz=-0.000
+[INFO] [1793801918.793509778] [vision_landing_controller]: VISION ALIGNING | z=1.500 | vx=0.025 vy=0.024 vz=-0.000
+[INFO] [1793801920.293955494] [vision_landing_controller]: ALIGNMENT VERIFYING | z=1.500 | vx=0.000 vy=0.000 vz=-0.000
+[INFO] [1793801921.802453915] [vision_landing_controller]: ALIGNMENT VERIFYING | z=1.500 | vx=0.000 vy=0.000 vz=-0.000
+[INFO] [1793801923.393377069] [vision_landing_controller]: VISION-GUIDED DESCENT | z=1.478 | vx=0.010 vy=0.011 vz=-0.060
+[INFO] [1793801924.896336998] [vision_landing_controller]: VISION-GUIDED DESCENT | z=1.400 | vx=0.007 vy=0.010 vz=-0.060
+[INFO] [1793801926.394437608] [vision_landing_controller]: VISION-GUIDED DESCENT | z=1.322 | vx=0.009 vy=0.005 vz=-0.060
+[INFO] [1793801927.994843796] [vision_landing_controller]: VISION-GUIDED DESCENT | z=1.238 | vx=0.004 vy=0.004 vz=-0.060
+[INFO] [1793801929.495543911] [vision_landing_controller]: VISION-GUIDED DESCENT | z=1.156 | vx=0.005 vy=0.004 vz=-0.060
+[INFO] [1793801931.093369366] [vision_landing_controller]: VISION-GUIDED DESCENT | z=1.064 | vx=0.002 vy=-0.000 vz=-0.060
+[INFO] [1793801932.593835727] [vision_landing_controller]: VISION-GUIDED DESCENT | z=0.983 | vx=0.010 vy=-0.000 vz=-0.060
+[INFO] [1793801934.099978282] [vision_landing_controller]: FINAL SLOW DESCENT | z=0.909 | vx=0.000 vy=0.000 vz=-0.050
+[INFO] [1793801935.693434742] [vision_landing_controller]: FINAL SLOW DESCENT | z=0.833 | vx=0.000 vy=0.000 vz=-0.050
+[INFO] [1793801937.299882133] [vision_landing_controller]: FINAL SLOW DESCENT | z=0.762 | vx=0.000 vy=0.000 vz=-0.050
+[INFO] [1793801938.896128094] [vision_landing_controller]: FINAL SLOW DESCENT | z=0.686 | vx=0.000 vy=0.000 vz=-0.050
+[INFO] [1793801940.401897549] [vision_landing_controller]: FINAL SLOW DESCENT | z=0.615 | vx=0.000 vy=0.000 vz=-0.050
+[INFO] [1793801941.994012943] [vision_landing_controller]: FINAL SLOW DESCENT | z=0.546 | vx=0.000 vy=0.000 vz=-0.050
+[INFO] [1793801943.500067228] [vision_landing_controller]: FINAL SLOW DESCENT | z=0.476 | vx=0.000 vy=0.000 vz=-0.050
+[INFO] [1793801945.094161538] [vision_landing_controller]: FINAL SLOW DESCENT | z=0.406 | vx=0.000 vy=0.000 vz=-0.050
+[INFO] [1793801946.593843085] [vision_landing_controller]: FINAL SLOW DESCENT | z=0.338 | vx=0.000 vy=0.000 vz=-0.050
+[INFO] [1793801948.193418579] [vision_landing_controller]: FINAL SLOW DESCENT | z=0.260 | vx=0.000 vy=0.000 vz=-0.050
+[INFO] [1793801949.698448524] [vision_landing_controller]: FINAL SLOW DESCENT | z=0.193 | vx=0.000 vy=0.000 vz=-0.050
+[INFO] [1793801951.293502447] [vision_landing_controller]: FINAL SLOW DESCENT | z=0.126 | vx=0.000 vy=0.000 vz=-0.050
+[INFO] [1793801952.793726869] [vision_landing_controller]: FINAL SLOW DESCENT | z=0.053 | vx=0.000 vy=0.000 vz=-0.050
+[INFO] [1793801954.393677264] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793801955.993552782] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793801957.593240957] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793801959.098656190] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793801960.695890850] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793801962.293758842] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793801963.793653508] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793801965.299913992] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793801966.893958714] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793801968.493220993] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793801969.995792007] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793801971.593417442] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793801973.195262642] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793801974.793241908] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793801976.294827791] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793801977.895748149] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793801979.393426268] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793801980.995691838] [vision_landing_controller]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+Traceback (most recent call last):
+  File "/home/awnish-kumar/drone_ws/src/drone_controller/drone_controller/ai_demo_landing.py", line 91, in <module>
+    main()
+  File "/home/awnish-kumar/drone_ws/src/drone_controller/drone_controller/ai_demo_landing.py", line 75, in main
+    rclpy.spin(node)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/__init__.py", line 247, in spin
+    executor.spin_once()
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 926, in spin_once
+    self._spin_once_impl(timeout_sec)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 907, in _spin_once_impl
+    handler, entity, node = self.wait_for_ready_callbacks(
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 877, in wait_for_ready_callbacks
+    return next(self._cb_iter)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 785, in _wait_for_ready_callbacks
+    raise ExternalShutdownException()
+rclpy.executors.ExternalShutdownException

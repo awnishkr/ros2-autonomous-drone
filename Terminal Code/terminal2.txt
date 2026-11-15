@@ -1,0 +1,8 @@
+source /opt/ros/jazzy/setup.bash
+source ~/drone_ws/install/setup.bash
+
+ros2 run ros_gz_bridge parameter_bridge \
+'/quadcopter/cmd_vel@geometry_msgs/msg/Twist]gz.msgs.Twist' \
+'/quadcopter/enable@std_msgs/msg/Bool]gz.msgs.Boolean' \
+'/model/quadcopter/odometry@nav_msgs/msg/Odometry[gz.msgs.Odometry' \
+'/quadcopter/scan@sensor_msgs/msg/LaserScan[gz.msgs.LaserScan'

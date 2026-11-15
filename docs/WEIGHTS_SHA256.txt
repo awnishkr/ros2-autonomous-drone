@@ -1,0 +1,5 @@
+Uploaded original best.onnx SHA256:
+1e948b4dfe25e22eb24dde74758faf46cd726d775d87ac673c77b688e4257ed4
+
+Packaged vision_landing_assets/landing_detector.onnx SHA256:
+1e948b4dfe25e22eb24dde74758faf46cd726d775d87ac673c77b688e4257ed4

@@ -1,0 +1,25 @@
+[INFO] [1793782225.540746973] [vision_landing_controller]: Vision Landing Controller | flight_enabled=True
+[INFO] [1793782225.551797598] [vision_landing_controller]: PRECISION LANDING | descent=True | auto_motor_shutdown=True
+[INFO] [1793782225.553280473] [vision_landing_controller]: AI LANDING READY — WAITING FOR A* HANDOFF
+[INFO] [1793782374.287873960] [vision_landing_controller]: A* NAVIGATION COMPLETE — AI LANDING ACTIVATED
+[INFO] [1793782374.326280627] [vision_landing_controller]: VISION ALIGNING | z=2.000 | vx=0.120 vy=0.120 vz=-0.150
+[INFO] [1793782375.926231878] [vision_landing_controller]: VISION ALIGNING | z=1.869 | vx=0.120 vy=0.120 vz=-0.150
+[INFO] [1793782377.427407129] [vision_landing_controller]: VISION ALIGNING | z=1.659 | vx=0.120 vy=0.120 vz=-0.095
+[INFO] [1793782379.025260421] [vision_landing_controller]: VISION ALIGNING | z=1.531 | vx=0.120 vy=0.120 vz=-0.019
+[INFO] [1793782380.530850380] [vision_landing_controller]: VISION ALIGNING | z=1.502 | vx=0.120 vy=0.120 vz=-0.001
+[INFO] [1793782382.123594131] [vision_landing_controller]: VISION ALIGNING | z=1.496 | vx=0.120 vy=0.120 vz=0.002
+[INFO] [1793782383.726507007] [vision_landing_controller]: VISION ALIGNING | z=1.498 | vx=0.079 vy=0.076 vz=0.001
+[INFO] [1793782385.329740674] [vision_landing_controller]: VISION ALIGNING | z=1.500 | vx=0.051 vy=0.048 vz=-0.000
+[INFO] [1793782386.925468716] [vision_landing_controller]: VISION ALIGNING | z=1.501 | vx=0.022 vy=0.020 vz=-0.000
+[INFO] [1793782388.430616759] [vision_landing_controller]: VISION ALIGNING | z=1.500 | vx=0.016 vy=0.017 vz=-0.000
+[INFO] [1793782390.026027718] [vision_landing_controller]: SAFETY HOLD: ALIGNMENT TIMEOUT | z=1.500 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793782391.529460052] [vision_landing_controller]: SAFETY HOLD: ALIGNMENT TIMEOUT | z=1.500 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793782393.132690428] [vision_landing_controller]: SAFETY HOLD: ALIGNMENT TIMEOUT | z=1.500 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793782394.728651554] [vision_landing_controller]: SAFETY HOLD: ALIGNMENT TIMEOUT | z=1.500 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793782396.269724513] [vision_landing_controller]: SAFETY HOLD: ALIGNMENT TIMEOUT | z=1.500 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793782397.824723222] [vision_landing_controller]: SAFETY HOLD: ALIGNMENT TIMEOUT | z=1.500 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793782399.422803472] [vision_landing_controller]: SAFETY HOLD: ALIGNMENT TIMEOUT | z=1.500 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793782400.923521223] [vision_landing_controller]: SAFETY HOLD: ALIGNMENT TIMEOUT | z=1.500 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793782402.525570557] [vision_landing_controller]: SAFETY HOLD: ALIGNMENT TIMEOUT | z=1.500 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793782404.128154766] [vision_landing_controller]: SAFETY HOLD: ALIGNMENT TIMEOUT | z=1.500 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793782405.727540934] [vision_landing_controller]: SAFETY HOLD: ALIGNMENT TIMEOUT | z=1.500 | vx=0.000 vy=0.000 vz=0.000

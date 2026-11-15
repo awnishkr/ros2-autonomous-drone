@@ -23,11 +23,11 @@ from rclpy.executors import ExternalShutdownException
 from rclpy.qos import qos_profile_sensor_data
 from nav_msgs.msg import Odometry
 
-HOME = Path.home()
-REPORT_DIR = HOME / 'drone_ws' / 'report_screenshots'
+PROJECT_ROOT = Path(__file__).resolve().parent
+REPORT_DIR = PROJECT_ROOT / 'report_screenshots'
 CSV_PATH = REPORT_DIR / '23_complete_drone_flight_path.csv'
 PNG_PATH = REPORT_DIR / '23_complete_drone_flight_path.png'
-WORLD_PATH = HOME / 'drone_ws/src/drone_description/worlds/ai_demo_offset.sdf'
+WORLD_PATH = PROJECT_ROOT / 'src/drone_description/worlds/mission_vision_landing.sdf'
 TOPIC = '/model/quadcopter/odometry'
 
 

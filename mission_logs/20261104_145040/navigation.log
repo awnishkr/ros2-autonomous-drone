@@ -1,0 +1,109 @@
+[INFO] [1793784049.367932718] [dynamic_autonomy]: Dynamic autonomy started | dry_run=False
+[WARN] [1793784049.452911009] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793784051.551788510] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793784053.652047595] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793784055.752455679] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793784057.851987722] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793784059.854104014] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793784061.951951349] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793784064.052040766] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793784066.150687351] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793784068.250783852] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793784070.250842977] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793784072.250903603] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793784074.251106771] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793784076.252262772] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793784078.254838523] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793784080.351573857] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793784082.453941233] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793784084.452898859] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793784086.452158819] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793784088.452166194] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793784090.452162237] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793784092.556058155] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793784094.651606614] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793784096.751713198] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793784098.850847324] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[INFO] [1793784101.292924492] [dynamic_autonomy]: Initial A* route: 6 points
+[INFO] [1793784101.294728326] [dynamic_autonomy]: TAKEOFF | XYZ=(-0.00, -0.00, 1.44) | Waypoint=1/5 | Unknown cells=0
+[INFO] [1793784103.051704035] [dynamic_autonomy]: TAKEOFF | XYZ=(-0.00, -0.00, 1.68) | Waypoint=1/5 | Unknown cells=1
+[INFO] [1793784105.051985077] [dynamic_autonomy]: TAKEOFF | XYZ=(-0.00, -0.00, 1.99) | Waypoint=1/5 | Unknown cells=1
+[INFO] [1793784106.254108120] [dynamic_autonomy]: Takeoff complete. Starting A* navigation.
+[INFO] [1793784107.053464787] [dynamic_autonomy]: NAVIGATE | XYZ=(-0.01, 0.02, 2.02) | Waypoint=1/5 | Unknown cells=1
+[INFO] [1793784109.056533621] [dynamic_autonomy]: NAVIGATE | XYZ=(-0.13, 0.33, 2.00) | Waypoint=1/5 | Unknown cells=6
+[INFO] [1793784111.156115664] [dynamic_autonomy]: NAVIGATE | XYZ=(-0.27, 0.67, 2.00) | Waypoint=1/5 | Unknown cells=6
+[INFO] [1793784113.254512623] [dynamic_autonomy]: NAVIGATE | XYZ=(-0.39, 1.00, 2.00) | Waypoint=1/5 | Unknown cells=6
+[INFO] [1793784115.261136499] [dynamic_autonomy]: NAVIGATE | XYZ=(-0.51, 1.29, 2.00) | Waypoint=1/5 | Unknown cells=7
+[INFO] [1793784117.355599167] [dynamic_autonomy]: NAVIGATE | XYZ=(-0.63, 1.60, 2.00) | Waypoint=1/5 | Unknown cells=8
+[INFO] [1793784119.370450876] [dynamic_autonomy]: NAVIGATE | XYZ=(-0.76, 1.94, 2.00) | Waypoint=1/5 | Unknown cells=8
+[INFO] [1793784121.472478710] [dynamic_autonomy]: NAVIGATE | XYZ=(-0.89, 2.29, 2.00) | Waypoint=1/5 | Unknown cells=9
+[INFO] [1793784123.555972086] [dynamic_autonomy]: NAVIGATE | XYZ=(-1.01, 2.61, 2.00) | Waypoint=1/5 | Unknown cells=9
+[INFO] [1793784125.558805420] [dynamic_autonomy]: NAVIGATE | XYZ=(-1.13, 2.92, 2.00) | Waypoint=1/5 | Unknown cells=9
+[INFO] [1793784127.251198255] [dynamic_autonomy]: Waypoint 1 reached
+[INFO] [1793784127.655179338] [dynamic_autonomy]: NAVIGATE | XYZ=(-1.22, 3.15, 2.00) | Waypoint=2/5 | Unknown cells=9
+[INFO] [1793784129.653605006] [dynamic_autonomy]: NAVIGATE | XYZ=(-1.22, 3.44, 2.00) | Waypoint=2/5 | Unknown cells=9
+[INFO] [1793784131.751789090] [dynamic_autonomy]: NAVIGATE | XYZ=(-1.23, 3.82, 2.00) | Waypoint=2/5 | Unknown cells=9
+[INFO] [1793784133.756841216] [dynamic_autonomy]: NAVIGATE | XYZ=(-1.24, 4.16, 2.00) | Waypoint=2/5 | Unknown cells=9
+[INFO] [1793784135.852792884] [dynamic_autonomy]: NAVIGATE | XYZ=(-1.24, 4.51, 2.00) | Waypoint=2/5 | Unknown cells=9
+[INFO] [1793784137.951942760] [dynamic_autonomy]: NAVIGATE | XYZ=(-1.25, 4.90, 2.00) | Waypoint=2/5 | Unknown cells=10
+[INFO] [1793784139.752570469] [dynamic_autonomy]: Waypoint 2 reached
+[INFO] [1793784139.955934052] [dynamic_autonomy]: NAVIGATE | XYZ=(-1.25, 5.15, 2.00) | Waypoint=3/5 | Unknown cells=10
+[INFO] [1793784142.055446887] [dynamic_autonomy]: NAVIGATE | XYZ=(-1.05, 5.33, 2.00) | Waypoint=3/5 | Unknown cells=10
+[INFO] [1793784144.151907888] [dynamic_autonomy]: NAVIGATE | XYZ=(-0.77, 5.58, 2.00) | Waypoint=3/5 | Unknown cells=10
+[WARN] [1793784144.752873763] [dynamic_autonomy]: SAFETY STOP! Clearance: 1.7710366249084473
+[WARN] [1793784145.759926055] [dynamic_autonomy]: Recovery proposed using live LiDAR
+[INFO] [1793784146.252727097] [dynamic_autonomy]: RECOVER | XYZ=(-0.62, 5.72, 2.00) | Waypoint=3/5 | Unknown cells=10
+[INFO] [1793784148.259910765] [dynamic_autonomy]: RECOVER | XYZ=(-0.74, 5.72, 2.00) | Waypoint=3/5 | Unknown cells=10
+[INFO] [1793784150.355481432] [dynamic_autonomy]: RECOVER | XYZ=(-0.93, 5.72, 2.00) | Waypoint=3/5 | Unknown cells=10
+[INFO] [1793784152.360633725] [dynamic_autonomy]: RECOVER | XYZ=(-1.08, 5.72, 2.00) | Waypoint=3/5 | Unknown cells=10
+[INFO] [1793784154.451934809] [dynamic_autonomy]: RECOVER | XYZ=(-1.25, 5.72, 2.00) | Waypoint=3/5 | Unknown cells=10
+[INFO] [1793784156.452488310] [dynamic_autonomy]: RECOVER | XYZ=(-1.40, 5.72, 2.00) | Waypoint=3/5 | Unknown cells=10
+[INFO] [1793784158.554066645] [dynamic_autonomy]: RECOVER | XYZ=(-1.55, 5.72, 2.00) | Waypoint=3/5 | Unknown cells=10
+[INFO] [1793784160.538080146] [dynamic_autonomy]: NEW A* ROUTE: 7 waypoints
+[INFO] [1793784160.655015604] [dynamic_autonomy]: NAVIGATE | XYZ=(-1.72, 5.71, 2.00) | Waypoint=1/6 | Unknown cells=10
+[INFO] [1793784160.953125646] [dynamic_autonomy]: Waypoint 1 reached
+[INFO] [1793784162.751756730] [dynamic_autonomy]: NAVIGATE | XYZ=(-1.70, 5.91, 2.00) | Waypoint=2/6 | Unknown cells=10
+[INFO] [1793784164.760714023] [dynamic_autonomy]: NAVIGATE | XYZ=(-1.64, 6.28, 2.00) | Waypoint=2/6 | Unknown cells=10
+[INFO] [1793784166.857279357] [dynamic_autonomy]: NAVIGATE | XYZ=(-1.59, 6.62, 2.00) | Waypoint=2/6 | Unknown cells=10
+[INFO] [1793784168.962781233] [dynamic_autonomy]: NAVIGATE | XYZ=(-1.53, 6.98, 2.00) | Waypoint=2/6 | Unknown cells=11
+[INFO] [1793784171.055096026] [dynamic_autonomy]: NAVIGATE | XYZ=(-1.47, 7.38, 2.00) | Waypoint=2/6 | Unknown cells=16
+[INFO] [1793784173.164508152] [dynamic_autonomy]: NAVIGATE | XYZ=(-1.41, 7.73, 2.00) | Waypoint=2/6 | Unknown cells=18
+[INFO] [1793784175.252957236] [dynamic_autonomy]: NAVIGATE | XYZ=(-1.35, 8.11, 2.00) | Waypoint=2/6 | Unknown cells=18
+[INFO] [1793784177.354904320] [dynamic_autonomy]: NAVIGATE | XYZ=(-1.30, 8.46, 2.00) | Waypoint=2/6 | Unknown cells=18
+[INFO] [1793784178.652591946] [dynamic_autonomy]: Waypoint 2 reached
+[INFO] [1793784179.376866113] [dynamic_autonomy]: NAVIGATE | XYZ=(-1.25, 8.66, 2.00) | Waypoint=3/6 | Unknown cells=18
+[INFO] [1793784181.456092822] [dynamic_autonomy]: NAVIGATE | XYZ=(-0.97, 8.82, 2.00) | Waypoint=3/6 | Unknown cells=18
+[INFO] [1793784183.490225406] [dynamic_autonomy]: NAVIGATE | XYZ=(-0.66, 8.99, 2.00) | Waypoint=3/6 | Unknown cells=18
+[INFO] [1793784185.553639574] [dynamic_autonomy]: NAVIGATE | XYZ=(-0.35, 9.16, 2.00) | Waypoint=3/6 | Unknown cells=18
+[INFO] [1793784187.555406992] [dynamic_autonomy]: NAVIGATE | XYZ=(-0.05, 9.33, 2.00) | Waypoint=3/6 | Unknown cells=18
+[INFO] [1793784189.056636242] [dynamic_autonomy]: Waypoint 3 reached
+[INFO] [1793784189.655520076] [dynamic_autonomy]: NAVIGATE | XYZ=(0.17, 9.45, 2.00) | Waypoint=4/6 | Unknown cells=18
+[INFO] [1793784191.655879285] [dynamic_autonomy]: NAVIGATE | XYZ=(0.49, 9.46, 2.00) | Waypoint=4/6 | Unknown cells=18
+[INFO] [1793784193.660115786] [dynamic_autonomy]: NAVIGATE | XYZ=(0.83, 9.47, 2.00) | Waypoint=4/6 | Unknown cells=18
+[INFO] [1793784195.657415996] [dynamic_autonomy]: NAVIGATE | XYZ=(1.18, 9.47, 2.00) | Waypoint=4/6 | Unknown cells=18
+[INFO] [1793784197.755571747] [dynamic_autonomy]: NAVIGATE | XYZ=(1.57, 9.48, 2.00) | Waypoint=4/6 | Unknown cells=18
+[INFO] [1793784199.868754164] [dynamic_autonomy]: NAVIGATE | XYZ=(1.94, 9.49, 2.00) | Waypoint=4/6 | Unknown cells=18
+[INFO] [1793784201.853572749] [dynamic_autonomy]: NAVIGATE | XYZ=(2.29, 9.49, 2.00) | Waypoint=4/6 | Unknown cells=20
+[INFO] [1793784203.959712166] [dynamic_autonomy]: NAVIGATE | XYZ=(2.70, 9.50, 2.00) | Waypoint=4/6 | Unknown cells=21
+[INFO] [1793784205.957529001] [dynamic_autonomy]: NAVIGATE | XYZ=(3.04, 9.50, 2.00) | Waypoint=4/6 | Unknown cells=21
+[INFO] [1793784206.853158251] [dynamic_autonomy]: Waypoint 4 reached
+[INFO] [1793784208.051788627] [dynamic_autonomy]: NAVIGATE | XYZ=(3.22, 9.45, 2.00) | Waypoint=5/6 | Unknown cells=21
+[INFO] [1793784210.060416461] [dynamic_autonomy]: NAVIGATE | XYZ=(3.49, 9.20, 2.00) | Waypoint=5/6 | Unknown cells=21
+[INFO] [1793784212.158848878] [dynamic_autonomy]: NAVIGATE | XYZ=(3.75, 8.96, 2.00) | Waypoint=5/6 | Unknown cells=21
+[INFO] [1793784214.253705296] [dynamic_autonomy]: NAVIGATE | XYZ=(4.02, 8.71, 2.00) | Waypoint=5/6 | Unknown cells=21
+[INFO] [1793784216.251892714] [dynamic_autonomy]: NAVIGATE | XYZ=(4.27, 8.47, 2.00) | Waypoint=5/6 | Unknown cells=21
+[INFO] [1793784217.550896673] [dynamic_autonomy]: Waypoint 5 reached
+[INFO] [1793784218.253974048] [dynamic_autonomy]: NAVIGATE | XYZ=(4.43, 8.31, 2.00) | Waypoint=6/6 | Unknown cells=21
+[INFO] [1793784220.352723674] [dynamic_autonomy]: NAVIGATE | XYZ=(4.49, 8.00, 2.00) | Waypoint=6/6 | Unknown cells=21
+[INFO] [1793784222.453940758] [dynamic_autonomy]: NAVIGATE | XYZ=(4.55, 7.66, 2.00) | Waypoint=6/6 | Unknown cells=21
+[INFO] [1793784224.452049968] [dynamic_autonomy]: NAVIGATE | XYZ=(4.62, 7.29, 2.00) | Waypoint=6/6 | Unknown cells=21
+[INFO] [1793784226.557211510] [dynamic_autonomy]: NAVIGATE | XYZ=(4.68, 6.94, 2.00) | Waypoint=6/6 | Unknown cells=21
+[INFO] [1793784228.655210470] [dynamic_autonomy]: NAVIGATE | XYZ=(4.74, 6.56, 2.00) | Waypoint=6/6 | Unknown cells=21
+[INFO] [1793784230.753778054] [dynamic_autonomy]: NAVIGATE | XYZ=(4.80, 6.20, 2.00) | Waypoint=6/6 | Unknown cells=21
+[INFO] [1793784232.755244013] [dynamic_autonomy]: NAVIGATE | XYZ=(4.86, 5.88, 2.00) | Waypoint=6/6 | Unknown cells=22
+[INFO] [1793784234.853042556] [dynamic_autonomy]: NAVIGATE | XYZ=(4.92, 5.51, 2.00) | Waypoint=6/6 | Unknown cells=22
+[INFO] [1793784236.954996265] [dynamic_autonomy]: NAVIGATE | XYZ=(4.98, 5.17, 2.00) | Waypoint=6/6 | Unknown cells=23
+[INFO] [1793784237.553967849] [dynamic_autonomy]: Destination reached. Hovering.
+[INFO] [1793784238.954888058] [dynamic_autonomy]: HOVER | XYZ=(4.99, 5.08, 2.00) | Waypoint=7/6 | Unknown cells=26
+[INFO] [1793784240.956799642] [dynamic_autonomy]: HOVER | XYZ=(5.00, 5.03, 2.00) | Waypoint=7/6 | Unknown cells=26
+[INFO] [1793784242.653151768] [dynamic_autonomy]: Hover complete. Landing.

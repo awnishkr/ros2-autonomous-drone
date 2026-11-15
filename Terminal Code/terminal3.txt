@@ -1,0 +1,9 @@
+source /opt/ros/jazzy/setup.bash
+source ~/drone_ws/install/setup.bash
+
+ros2 run drone_controller dynamic_autonomy \
+--ros-args \
+-p dry_run:=false \
+-p takeoff_only:=false \
+-p waypoint_test:=false \
+-p recovery_test:=false

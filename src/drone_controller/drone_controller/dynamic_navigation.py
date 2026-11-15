@@ -170,7 +170,7 @@ class AStarPlanner:
 
 
 def load_obstacles():
-    ws = Path.home() / "drone_ws"
+    ws = Path(__file__).resolve().parents[3]
 
     map_file = ws / "maps/lidar_obstacle_regions.json"
     data = json.loads(map_file.read_text())
@@ -199,11 +199,8 @@ def load_obstacles():
 
 def actual_obstacles():
     # Used only for independent simulation validation.
-    path = (
-        Path.home()
-        / "drone_ws/src/drone_description/worlds/"
-        "dynamic_obstacle_test.sdf"
-    )
+    path = (Path(__file__).resolve().parents[3] /
+            "src/drone_description/worlds/dynamic_obstacle_test.sdf")
 
     world = ET.parse(path).getroot().find("world")
     boxes = []
@@ -274,7 +271,7 @@ def main():
     print("\nUNEXPECTED OBSTACLE DISCOVERED")
     print("New LiDAR regions:", len(discovered))
 
-    ws = Path.home() / "drone_ws"
+    ws = Path(__file__).resolve().parents[3]
 
     cached = json.loads((
         ws / "src/drone_description/worlds/"

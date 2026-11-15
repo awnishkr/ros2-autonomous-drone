@@ -1,0 +1,59 @@
+[INFO] [1793816423.993173704] [dynamic_autonomy]: Dynamic autonomy started | dry_run=False
+[WARN] [1793816424.069648007] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816426.067259685] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816428.169164713] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[INFO] [1793816430.637773644] [dynamic_autonomy]: Initial A* route: 6 points
+[INFO] [1793816430.646623516] [dynamic_autonomy]: TAKEOFF | XYZ=(-0.00, -0.00, 1.45) | Waypoint=1/5 | Unknown cells=0
+[INFO] [1793816432.672319880] [dynamic_autonomy]: TAKEOFF | XYZ=(-0.00, -0.00, 1.68) | Waypoint=1/5 | Unknown cells=1
+[INFO] [1793816434.767840372] [dynamic_autonomy]: TAKEOFF | XYZ=(-0.00, -0.00, 1.99) | Waypoint=1/5 | Unknown cells=1
+[INFO] [1793816435.870361129] [dynamic_autonomy]: Takeoff complete. Starting A* navigation.
+[INFO] [1793816436.768604934] [dynamic_autonomy]: NAVIGATE | XYZ=(-0.02, 0.04, 2.02) | Waypoint=1/5 | Unknown cells=2
+[INFO] [1793816438.770289642] [dynamic_autonomy]: NAVIGATE | XYZ=(-0.13, 0.32, 2.00) | Waypoint=1/5 | Unknown cells=6
+[INFO] [1793816440.876859045] [dynamic_autonomy]: NAVIGATE | XYZ=(-0.24, 0.60, 2.00) | Waypoint=1/5 | Unknown cells=6
+[INFO] [1793816442.871695587] [dynamic_autonomy]: NAVIGATE | XYZ=(-0.35, 0.88, 2.00) | Waypoint=1/5 | Unknown cells=6
+[INFO] [1793816444.968673861] [dynamic_autonomy]: NAVIGATE | XYZ=(-0.46, 1.18, 2.00) | Waypoint=1/5 | Unknown cells=7
+[ERROR] [1793816446.566999094] [dynamic_autonomy]: SENSOR LOSS: HOLD latched. Restart controller only after checking sensors.
+[WARN] [1793816446.970988225] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816449.066680589] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816451.065420146] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816453.069280887] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816455.165598235] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816457.265477609] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816459.266481891] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816461.271314022] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816463.366284269] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816465.371234997] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816467.466673600] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816469.470931165] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816471.565575833] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816473.567769827] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816475.666837847] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816477.766761115] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816479.866284547] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816481.867949984] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816483.969932131] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816486.067849048] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816488.169742054] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816490.269009217] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816492.365523087] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816494.365566369] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816496.365907471] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793816498.467755859] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+Traceback (most recent call last):
+  File "/home/awnish-kumar/drone_ws/src/drone_controller/drone_controller/dynamic_ai_handoff.py", line 690, in <module>
+    main()
+  File "/home/awnish-kumar/drone_ws/src/drone_controller/drone_controller/dynamic_ai_handoff.py", line 674, in main
+    rclpy.spin(node)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/__init__.py", line 247, in spin
+    executor.spin_once()
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 926, in spin_once
+    self._spin_once_impl(timeout_sec)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 907, in _spin_once_impl
+    handler, entity, node = self.wait_for_ready_callbacks(
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 877, in wait_for_ready_callbacks
+    return next(self._cb_iter)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 785, in _wait_for_ready_callbacks
+    raise ExternalShutdownException()
+rclpy.executors.ExternalShutdownException

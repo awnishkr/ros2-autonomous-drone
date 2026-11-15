@@ -1,8 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
+set -e
 source /opt/ros/jazzy/setup.bash
-source ~/drone_ws/install/setup.bash
-
-echo "Final Drone Position:"
-ros2 topic echo /model/quadcopter/odometry \
-  --once --field pose.pose.position \
-  --qos-reliability best_effort
+ros2 topic echo /model/quadcopter/odometry --once --field pose.pose.position --qos-reliability best_effort

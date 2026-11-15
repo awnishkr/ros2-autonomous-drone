@@ -1,0 +1,35 @@
+[INFO] [1793801622.474003688] [dynamic_autonomy]: Dynamic autonomy started | dry_run=False
+[WARN] [1793801622.563646044] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793801624.662589942] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793801626.763363712] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793801628.762537427] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793801630.763276691] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793801632.862050330] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793801634.862336352] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793801636.962429133] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793801638.964399396] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793801641.062536444] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793801643.166313204] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793801645.264542874] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793801647.363543868] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793801649.462674968] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793801651.462482042] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793801653.562514203] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+Traceback (most recent call last):
+  File "/home/awnish-kumar/drone_ws/src/drone_controller/drone_controller/dynamic_ai_handoff.py", line 690, in <module>
+    main()
+  File "/home/awnish-kumar/drone_ws/src/drone_controller/drone_controller/dynamic_ai_handoff.py", line 674, in main
+    rclpy.spin(node)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/__init__.py", line 247, in spin
+    executor.spin_once()
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 926, in spin_once
+    self._spin_once_impl(timeout_sec)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 907, in _spin_once_impl
+    handler, entity, node = self.wait_for_ready_callbacks(
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 877, in wait_for_ready_callbacks
+    return next(self._cb_iter)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 785, in _wait_for_ready_callbacks
+    raise ExternalShutdownException()
+rclpy.executors.ExternalShutdownException

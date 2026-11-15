@@ -1,0 +1,44 @@
+[INFO] [1793732188.090964168] [dynamic_autonomy]: Dynamic autonomy started | dry_run=False
+[WARN] [1793732188.109008317] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793732190.501056588] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[ERROR] [1793732190.980906889] [dynamic_autonomy]: Drone is not near (0,0). Reset Gazebo.
+[ERROR] [1793732191.082841138] [dynamic_autonomy]: Drone is not near (0,0). Reset Gazebo.
+[ERROR] [1793732191.180853664] [dynamic_autonomy]: Drone is not near (0,0). Reset Gazebo.
+[ERROR] [1793732191.281048240] [dynamic_autonomy]: Drone is not near (0,0). Reset Gazebo.
+[ERROR] [1793732191.382815738] [dynamic_autonomy]: Drone is not near (0,0). Reset Gazebo.
+[ERROR] [1793732191.480855806] [dynamic_autonomy]: Drone is not near (0,0). Reset Gazebo.
+[ERROR] [1793732191.581779426] [dynamic_autonomy]: Drone is not near (0,0). Reset Gazebo.
+[ERROR] [1793732191.681854960] [dynamic_autonomy]: Drone is not near (0,0). Reset Gazebo.
+[ERROR] [1793732191.780997698] [dynamic_autonomy]: Drone is not near (0,0). Reset Gazebo.
+[ERROR] [1793732191.887927757] [dynamic_autonomy]: Drone is not near (0,0). Reset Gazebo.
+[ERROR] [1793732191.983980359] [dynamic_autonomy]: Drone is not near (0,0). Reset Gazebo.
+[ERROR] [1793732192.081896927] [dynamic_autonomy]: Drone is not near (0,0). Reset Gazebo.
+[ERROR] [1793732192.182094169] [dynamic_autonomy]: Drone is not near (0,0). Reset Gazebo.
+[ERROR] [1793732192.281994827] [dynamic_autonomy]: Drone is not near (0,0). Reset Gazebo.
+[ERROR] [1793732192.384476286] [dynamic_autonomy]: Drone is not near (0,0). Reset Gazebo.
+[ERROR] [1793732192.482597605] [dynamic_autonomy]: Drone is not near (0,0). Reset Gazebo.
+[ERROR] [1793732192.582942848] [dynamic_autonomy]: Drone is not near (0,0). Reset Gazebo.
+[ERROR] [1793732192.682083461] [dynamic_autonomy]: Drone is not near (0,0). Reset Gazebo.
+[ERROR] [1793732192.780947240] [dynamic_autonomy]: Drone is not near (0,0). Reset Gazebo.
+[ERROR] [1793732192.881887736] [dynamic_autonomy]: Drone is not near (0,0). Reset Gazebo.
+[ERROR] [1793732192.980947974] [dynamic_autonomy]: Drone is not near (0,0). Reset Gazebo.
+[ERROR] [1793732193.080823090] [dynamic_autonomy]: Drone is not near (0,0). Reset Gazebo.
+[ERROR] [1793732193.180780707] [dynamic_autonomy]: Drone is not near (0,0). Reset Gazebo.
+Traceback (most recent call last):
+  File "/home/awnish-kumar/drone_ws/src/drone_controller/drone_controller/dynamic_ai_handoff.py", line 690, in <module>
+    main()
+  File "/home/awnish-kumar/drone_ws/src/drone_controller/drone_controller/dynamic_ai_handoff.py", line 674, in main
+    rclpy.spin(node)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/__init__.py", line 247, in spin
+    executor.spin_once()
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 926, in spin_once
+    self._spin_once_impl(timeout_sec)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 907, in _spin_once_impl
+    handler, entity, node = self.wait_for_ready_callbacks(
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 877, in wait_for_ready_callbacks
+    return next(self._cb_iter)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 785, in _wait_for_ready_callbacks
+    raise ExternalShutdownException()
+rclpy.executors.ExternalShutdownException

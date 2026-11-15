@@ -1,0 +1,45 @@
+[INFO] [1793817625.990816161] [dynamic_autonomy]: Dynamic autonomy started | dry_run=False
+[WARN] [1793817626.076006271] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[INFO] [1793817986.867324828] [dynamic_autonomy]: Initial A* route: 6 points
+[ERROR] [1793817987.078408697] [dynamic_autonomy]: SENSOR LOSS: HOLD latched. Restart controller only after checking sensors.
+[WARN] [1793817987.375229561] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793817989.481712671] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793817991.579272968] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793817993.677081927] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793817995.775644120] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793817997.775748751] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793817999.879755829] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793818001.976492436] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793818003.985193053] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793818006.077384463] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793818008.175169380] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793818010.176714148] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793818012.283860869] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793818014.375098757] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793818016.377445591] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793818019.275773603] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793818021.275737514] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793818023.375491124] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793818026.075183481] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793818028.179223030] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793818030.179190705] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793818032.276651489] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+[WARN] [1793818034.380227556] [dynamic_autonomy]: WAIT: Fresh odometry and LiDAR required
+Traceback (most recent call last):
+  File "/home/awnish-kumar/drone_ws/src/drone_controller/drone_controller/dynamic_ai_handoff.py", line 690, in <module>
+    main()
+  File "/home/awnish-kumar/drone_ws/src/drone_controller/drone_controller/dynamic_ai_handoff.py", line 674, in main
+    rclpy.spin(node)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/__init__.py", line 247, in spin
+    executor.spin_once()
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 926, in spin_once
+    self._spin_once_impl(timeout_sec)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 907, in _spin_once_impl
+    handler, entity, node = self.wait_for_ready_callbacks(
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 877, in wait_for_ready_callbacks
+    return next(self._cb_iter)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 785, in _wait_for_ready_callbacks
+    raise ExternalShutdownException()
+rclpy.executors.ExternalShutdownException

@@ -3,7 +3,7 @@
 <package format="3">
   <name>drone_description</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
+  <description>Gazebo simulation environments and quadcopter description for autonomous navigation experiments</description>
   <maintainer email="awnish-kumar@todo.todo">awnish-kumar</maintainer>
   <license>Apache-2.0</license>
 

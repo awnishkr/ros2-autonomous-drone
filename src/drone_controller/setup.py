@@ -15,7 +15,7 @@ setup(
     zip_safe=True,
     maintainer='awnish-kumar',
     maintainer_email='awnish-kumar@todo.todo',
-    description='TODO: Package description',
+    description='ROS 2 quadcopter navigation, obstacle response and vision-guided landing',
     license='Apache-2.0',
     extras_require={
         'test': [

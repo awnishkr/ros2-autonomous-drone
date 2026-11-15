@@ -1,0 +1,9 @@
+[INFO] [1793736232.021405054] [yolo11n_pad_detector]: Pretrained neural network loaded
+[INFO] [1793736232.022356696] [yolo11n_pad_detector]: Waiting for live Gazebo images...
+[INFO] [1793736293.540392544] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793736295.545225006] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793736297.226946223] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793736300.159273389] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793736304.682608825] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793736306.582224762] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793736309.867978154] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007

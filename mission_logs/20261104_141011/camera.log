@@ -1,0 +1,2 @@
+[INFO] [1793781916.098922034] [rclcpp]: signal_handler(SIGINT/SIGTERM)
+[FATAL] [1793781916.134730950] [ros_gz_image]: Call to publish() on an invalid image_transport::Publisher

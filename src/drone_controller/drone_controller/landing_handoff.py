@@ -1,0 +1,89 @@
+import time
+import rclpy
+
+from std_msgs.msg import Bool
+from geometry_msgs.msg import Twist
+from landing_controller import LandingController
+
+
+class MissionLandingController(LandingController):
+
+    def __init__(self):
+        super().__init__()
+
+        self.active = False
+        self.pad_xy = (5.0, 5.0)
+
+        self.create_subscription(
+            Bool,
+            '/mission/handoff',
+            self.on_handoff,
+            10
+        )
+
+        self.get_logger().info(
+            'VISION LANDING READY — WAITING FOR A* HANDOFF'
+        )
+
+    def on_handoff(self, msg):
+
+        if not msg.data or self.active:
+            return
+
+        if (
+            self.position is None
+            or time.monotonic() - self.last_odom >= 1.0
+        ):
+            self.get_logger().error(
+                'Handoff rejected: odometry unavailable'
+            )
+            return
+
+        self.start_position = self.position
+
+        self.alignment_start = None
+        self.permanent_hold = False
+        self.hold_reason = ''
+
+        self.phase = 'ALIGN'
+        self.center_since = None
+        self.ground_since = None
+
+        self.contact_count = 0
+        self.last_ground_contact = 0.0
+
+        self.active = True
+
+        self.get_logger().info(
+            'A* NAVIGATION COMPLETE — VISION LANDING ACTIVATED'
+        )
+
+    def update(self):
+
+        if self.active:
+            super().update()
+
+
+def main():
+
+    rclpy.init()
+    node = MissionLandingController()
+
+    try:
+        rclpy.spin(node)
+
+    except KeyboardInterrupt:
+        pass
+
+    finally:
+        if rclpy.ok() and node.active and node.flight_enabled:
+            node.cmd_pub.publish(Twist())
+
+        node.destroy_node()
+
+        if rclpy.ok():
+            rclpy.shutdown()
+
+
+if __name__ == '__main__':
+    main()

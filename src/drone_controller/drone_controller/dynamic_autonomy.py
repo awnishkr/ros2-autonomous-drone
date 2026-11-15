@@ -2,6 +2,7 @@
 import json
 import math
 import time
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 import rclpy
@@ -77,6 +78,12 @@ class DynamicAutonomy(Node):
         self.recovery_direction = None
         self.disarm_ticks = 0
         self.last_log = 0.0
+        # Compute recovery paths off the ROS single-threaded callback loop.
+        # Otherwise A* can starve odometry/LiDAR callbacks and trip the watchdog.
+        self.replan_executor = ThreadPoolExecutor(
+            max_workers=1, thread_name_prefix='astar_replan'
+        )
+        self.replan_future = None
 
         self.cmd_pub = self.create_publisher(
             Twist, '/quadcopter/cmd_vel', 10
@@ -331,13 +338,17 @@ class DynamicAutonomy(Node):
             ):
                 self.state = 'HOLD'
                 self.get_logger().error(
-                    'SENSOR LOSS: HOLD latched. '
+                    f'SENSOR LOSS: HOLD latched. '
+                    f'Odometry age={now-self.odom_time:.2f}s; '
+                    f'LiDAR age={now-self.scan_time:.2f}s. '
                     'Restart controller only after checking sensors.'
                 )
 
             if now-self.last_log >= 2.0:
                 self.get_logger().warn(
-                    'WAIT: Fresh odometry and LiDAR required'
+                    f'WAIT: Fresh odometry and LiDAR required. '
+                    f'Odometry age={now-self.odom_time:.2f}s; '
+                    f'LiDAR age={now-self.scan_time:.2f}s'
                 )
                 self.last_log = now
             return
@@ -563,23 +574,53 @@ class DynamicAutonomy(Node):
 
             current_clearance = planner.clearance((x, y))
 
-            if current_clearance >= 2.30 and not self.recovery_test:
-                try:
-                    updated = planner.plan(
-                        (x, y), self.goal
+            if not self.recovery_test:
+                if self.replan_future is not None:
+                    # Keep hovering while a worker calculates the new route.
+                    # Subscribers must continue to receive real sensor data.
+                    if not self.replan_future.done():
+                        self.send_velocity(vz=self.hold_z())
+                        return
+
+                    try:
+                        updated = self.replan_future.result()
+                    except ValueError as error:
+                        updated = None
+                        self.get_logger().error(
+                            f'A* recovery route unavailable: {error}'
+                        )
+                    except Exception as error:
+                        updated = None
+                        self.get_logger().error(
+                            f'A* replanning failed: {error}'
+                        )
+                    finally:
+                        self.replan_future = None
+
+                    if updated:
+                        self.route = updated
+                        self.index = 1
+                        self.state = 'NAVIGATE'
+                        self.stable_since = None
+                        self.get_logger().info(
+                            f'NEW A* ROUTE: {len(updated)} waypoints'
+                        )
+                    else:
+                        # Do not continue into an obstacle when no safe route exists.
+                        self.state = 'HOLD'
+                        self._hold_altitude = z
+                        self.send_velocity(vz=self.hold_z())
+                        return
+
+                elif current_clearance >= 2.30:
+                    self.replan_future = self.replan_executor.submit(
+                        planner.plan, (x, y), self.goal
                     )
-                except ValueError:
-                    updated = None
-
-                if updated:
-                    self.route = updated
-                    self.index = 1
-                    self.state = 'NAVIGATE'
-                    self.stable_since = None
-
                     self.get_logger().info(
-                        f'NEW A* ROUTE: {len(updated)} waypoints'
+                        'Calculating recovery A* route; holding position.'
                     )
+                    self.send_velocity(vz=self.hold_z())
+                    return
 
             if self.state == 'RECOVER':
                 dx, dy = self.recovery_direction
@@ -673,6 +714,7 @@ def main(args=None):
         if rclpy.ok() and not node.dry_run:
             node.send_velocity()
 
+        node.replan_executor.shutdown(wait=False, cancel_futures=True)
         node.destroy_node()
 
         if rclpy.ok():

@@ -1,0 +1,59 @@
+[INFO] [1793734716.638154611] [yolo11n_pad_detector]: Pretrained neural network loaded
+[INFO] [1793734716.638445403] [yolo11n_pad_detector]: Waiting for live Gazebo images...
+[INFO] [1793734717.863501361] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793734719.062618423] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793734720.261984530] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793734721.679246941] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793734723.153198818] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793734724.179487954] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793734724.980646697] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793734726.223711890] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793734727.516269749] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793734851.457184343] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793734852.694883893] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793734854.086069840] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793734855.911975162] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793734859.690536726] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793734861.723647087] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793734862.953707016] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793734864.925087907] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793734866.193477543] [yolo11n_pad_detector]: No landing pad | Max confidence: 0.007
+Traceback (most recent call last):
+  File "/home/awnish-kumar/drone_landing_assets/live_landing_detector.py", line 169, in main
+    rclpy.spin(node)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/__init__.py", line 247, in spin
+    executor.spin_once()
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 926, in spin_once
+    self._spin_once_impl(timeout_sec)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 918, in _spin_once_impl
+    raise handler.exception()
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/task.py", line 286, in _execute_coroutine_step
+    result = coro.send(None)
+             ^^^^^^^^^^^^^^^
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 592, in handler
+    await call_coroutine()
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 480, in _execute
+    await await_or_execute(sub.callback, *msg_tuple)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 115, in await_or_execute
+    return callback(*args)
+           ^^^^^^^^^^^^^^^
+  File "/home/awnish-kumar/drone_landing_assets/live_landing_detector.py", line 153, in detect
+    self.publisher.publish(result)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/publisher.py", line 70, in publish
+    self.__publisher.publish(msg)
+rclpy._rclpy_pybind11.RCLError: Failed to publish: publisher's context is invalid, at ./src/rcl/publisher.c:423
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/awnish-kumar/drone_landing_assets/live_landing_detector.py", line 178, in <module>
+    main()
+  File "/home/awnish-kumar/drone_landing_assets/live_landing_detector.py", line 174, in main
+    rclpy.shutdown()
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/__init__.py", line 134, in shutdown
+    _shutdown(context=context)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/utilities.py", line 82, in shutdown
+    context.shutdown()
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/context.py", line 129, in shutdown
+    self.__context.shutdown()
+rclpy._rclpy_pybind11.RCLError: failed to shutdown: rcl_shutdown already called on the given context, at ./src/rcl/init.c:333

@@ -1,0 +1,3 @@
+[INFO] [1793735708.984368851] [vision_landing_controller]: Vision Landing Controller | flight_enabled=True
+[INFO] [1793735708.986614990] [vision_landing_controller]: PRECISION LANDING | descent=True | auto_motor_shutdown=True
+[INFO] [1793735708.986901700] [vision_landing_controller]: VISION LANDING READY — WAITING FOR A* HANDOFF

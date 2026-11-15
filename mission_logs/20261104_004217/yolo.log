@@ -1,0 +1,273 @@
+[INFO] [1793733146.651980562] [ai_landing_detector]: Pretrained neural network loaded
+[INFO] [1793733146.652564347] [ai_landing_detector]: Waiting for live Gazebo images...
+[INFO] [1793733154.741556469] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733157.137274426] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733161.321267211] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733166.556961598] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733168.897238640] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733171.181554731] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733173.665157742] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733176.060657181] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733178.526243825] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733181.137811733] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733184.485730220] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733187.541158330] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733190.425727239] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733191.797757528] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733195.612815802] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733198.547172030] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733202.015266137] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733204.088722610] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733205.693682346] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733207.917740528] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733212.150967438] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733215.481584957] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733216.984180633] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733220.341885908] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733223.501137352] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733226.741538336] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733229.403973978] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733232.062081596] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733235.688667528] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733238.725090748] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733240.859721272] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733244.470883865] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733246.558920842] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733249.399182078] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733252.256042037] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733257.090907317] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733260.189687426] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733263.405711015] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733266.506857275] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733269.572988140] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733272.175491427] [ai_landing_detector]: No landing pad | Max confidence: 0.007
+[INFO] [1793733279.110776308] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.951, 0.278)
+[INFO] [1793733279.615653996] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.94 | Centre: (0.937, 0.281)
+[INFO] [1793733280.284623841] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.922, 0.290)
+[INFO] [1793733280.752985338] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.916, 0.291)
+[INFO] [1793733281.198189694] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.94 | Centre: (0.878, 0.299)
+[INFO] [1793733281.712949070] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.853, 0.303)
+[INFO] [1793733282.100861859] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.830, 0.306)
+[INFO] [1793733282.704982808] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.818, 0.309)
+[INFO] [1793733283.072211273] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.782, 0.316)
+[INFO] [1793733283.436694807] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.758, 0.319)
+[INFO] [1793733283.941256077] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.735, 0.323)
+[INFO] [1793733284.306185030] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.92 | Centre: (0.711, 0.328)
+[INFO] [1793733285.299063517] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.663, 0.335)
+[INFO] [1793733285.741385643] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.639, 0.340)
+[INFO] [1793733286.173708395] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.616, 0.341)
+[INFO] [1793733286.703695571] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.94 | Centre: (0.592, 0.348)
+[INFO] [1793733287.244471955] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.555, 0.353)
+[INFO] [1793733287.747167194] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.543, 0.352)
+[INFO] [1793733288.284747699] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.531, 0.356)
+[INFO] [1793733288.664771308] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.494, 0.364)
+[INFO] [1793733289.006549393] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.468, 0.367)
+[INFO] [1793733289.645730971] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.436, 0.372)
+[INFO] [1793733290.014186640] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.95 | Centre: (0.427, 0.373)
+[INFO] [1793733291.362470059] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.422, 0.374)
+[INFO] [1793733292.648208550] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.92 | Centre: (0.414, 0.375)
+[INFO] [1793733293.222538810] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.92 | Centre: (0.412, 0.377)
+[INFO] [1793733293.971618353] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.410, 0.377)
+[INFO] [1793733294.603097801] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.409, 0.377)
+[INFO] [1793733295.067655867] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.94 | Centre: (0.406, 0.373)
+[INFO] [1793733295.672261914] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.95 | Centre: (0.403, 0.371)
+[INFO] [1793733296.322852479] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.409, 0.377)
+[INFO] [1793733296.735111056] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.94 | Centre: (0.414, 0.385)
+[INFO] [1793733297.053135796] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.419, 0.389)
+[INFO] [1793733297.340569614] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.94 | Centre: (0.424, 0.396)
+[INFO] [1793733297.954843150] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.428, 0.404)
+[INFO] [1793733298.556237754] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.435, 0.411)
+[INFO] [1793733299.476558278] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.92 | Centre: (0.442, 0.419)
+[INFO] [1793733300.096963831] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.92 | Centre: (0.450, 0.431)
+[INFO] [1793733300.566253951] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.92 | Centre: (0.453, 0.436)
+[INFO] [1793733301.476495295] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.92 | Centre: (0.468, 0.447)
+[INFO] [1793733302.015922751] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.92 | Centre: (0.474, 0.457)
+[INFO] [1793733303.434910498] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.92 | Centre: (0.484, 0.478)
+[INFO] [1793733304.305553821] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.489, 0.486)
+[INFO] [1793733304.826117660] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.490, 0.489)
+[INFO] [1793733305.339734517] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.490, 0.486)
+[INFO] [1793733305.866278569] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.490, 0.486)
+[INFO] [1793733306.318518410] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.490, 0.486)
+[INFO] [1793733306.657265837] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.489, 0.487)
+[INFO] [1793733307.020603784] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.489, 0.487)
+[INFO] [1793733307.569822513] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.489, 0.488)
+[INFO] [1793733308.264844542] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.92 | Centre: (0.491, 0.485)
+[INFO] [1793733308.709020255] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.493, 0.490)
+[INFO] [1793733309.509072618] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.94 | Centre: (0.494, 0.496)
+[INFO] [1793733310.353282237] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.94 | Centre: (0.496, 0.497)
+[INFO] [1793733311.262877078] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.94 | Centre: (0.497, 0.489)
+[INFO] [1793733311.804084325] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.94 | Centre: (0.497, 0.492)
+[INFO] [1793733312.237118609] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.94 | Centre: (0.497, 0.495)
+[INFO] [1793733313.076726386] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.497, 0.496)
+[INFO] [1793733313.604640461] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.499, 0.493)
+[INFO] [1793733314.092584049] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.499, 0.493)
+[INFO] [1793733314.527022549] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.93 | Centre: (0.499, 0.498)
+[INFO] [1793733315.289875108] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.90 | Centre: (0.500, 0.496)
+[INFO] [1793733316.667275709] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.86 | Centre: (0.501, 0.491)
+[INFO] [1793733317.204999741] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.79 | Centre: (0.500, 0.488)
+[INFO] [1793733317.893416728] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.79 | Centre: (0.498, 0.486)
+[INFO] [1793733318.303274192] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.81 | Centre: (0.497, 0.487)
+[INFO] [1793733318.805786003] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.62 | Centre: (0.499, 0.486)
+[INFO] [1793733319.257940489] [ai_landing_detector]: LANDING PAD DETECTED | Confidence: 0.67 | Centre: (0.499, 0.485)
+[INFO] [1793733322.274136676] [ai_landing_detector]: No landing pad | Max confidence: 0.014
+[INFO] [1793733325.636119424] [ai_landing_detector]: No landing pad | Max confidence: 0.001
+[INFO] [1793733328.486181036] [ai_landing_detector]: No landing pad | Max confidence: 0.002
+[INFO] [1793733333.051631187] [ai_landing_detector]: No landing pad | Max confidence: 0.002
+[INFO] [1793733336.630982198] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733340.682599137] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733344.430116457] [ai_landing_detector]: No landing pad | Max confidence: 0.010
+[INFO] [1793733348.276895271] [ai_landing_detector]: No landing pad | Max confidence: 0.006
+[INFO] [1793733352.082981985] [ai_landing_detector]: No landing pad | Max confidence: 0.002
+[INFO] [1793733357.088699905] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733359.436891843] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733364.220889683] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733367.065826890] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733369.284278316] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733371.391956512] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733374.455857100] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733376.640503795] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733378.753174241] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733382.768914777] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733385.317757249] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733387.397907143] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733389.278930035] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733391.593871654] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733393.878542625] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733396.196555635] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733400.056581654] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733403.096927514] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733406.594148016] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733409.924550161] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733412.024699821] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733414.957539981] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733416.762097428] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733418.266102703] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733420.525164179] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733422.497179078] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733426.764182456] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733429.027613219] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733431.572509523] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733434.639172565] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733436.999583735] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733439.647621115] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733442.590626274] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733448.242990607] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733450.906686805] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733454.751100142] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733459.246282348] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733461.084159301] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733464.391621375] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733466.650096068] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733469.446955801] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733472.809914112] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733475.500968613] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733479.121430953] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733482.621636070] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733484.799382781] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733487.289970444] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733491.420793210] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733493.765904169] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733497.067372020] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733500.417018523] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733503.095530386] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733505.732737994] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733508.123945435] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733511.639853561] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733515.407090454] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733519.147834803] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733521.771682350] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733525.393691894] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733529.239894454] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733532.093778364] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733534.153098728] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733536.373800304] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733540.106275803] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733541.901901253] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733543.647538541] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733545.265976619] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733547.108553429] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733549.548490766] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733552.391053543] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733555.494478812] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733558.442254544] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733561.323202606] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733564.536575600] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733567.053360752] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733569.892448334] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733571.976179458] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733574.461017440] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733580.468707335] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733583.373161729] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733586.118185870] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733589.170892155] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733593.045878190] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733596.028047124] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733599.343251234] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733602.230917666] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733604.599195850] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733607.639034876] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733609.918483175] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733612.939131764] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733615.970998526] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733618.764851891] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733621.463985707] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733623.312778367] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733626.492543001] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733629.135817543] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733631.799257373] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733633.875978978] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733635.834261943] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733637.944605263] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733639.556029508] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733642.587075748] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733644.923952742] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733647.430003565] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733649.729237411] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733652.823456688] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733655.486581353] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733657.894648186] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733659.860655223] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733661.961962992] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733666.190937817] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733669.255276684] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733670.805029615] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733672.984997221] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733674.879845986] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733679.197128273] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733681.782629079] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733685.720042990] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733688.708902552] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733691.058062835] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733693.064006988] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+[INFO] [1793733694.738196002] [ai_landing_detector]: No landing pad | Max confidence: 0.000
+Traceback (most recent call last):
+  File "/home/awnish-kumar/drone_landing_assets/live_landing_detector.py", line 169, in main
+    rclpy.spin(node)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/__init__.py", line 247, in spin
+    executor.spin_once()
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 926, in spin_once
+    self._spin_once_impl(timeout_sec)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 907, in _spin_once_impl
+    handler, entity, node = self.wait_for_ready_callbacks(
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 877, in wait_for_ready_callbacks
+    return next(self._cb_iter)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 785, in _wait_for_ready_callbacks
+    raise ExternalShutdownException()
+rclpy.executors.ExternalShutdownException
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/awnish-kumar/drone_landing_assets/live_landing_detector.py", line 178, in <module>
+    main()
+  File "/home/awnish-kumar/drone_landing_assets/live_landing_detector.py", line 174, in main
+    rclpy.shutdown()
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/__init__.py", line 134, in shutdown
+    _shutdown(context=context)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/utilities.py", line 82, in shutdown
+    context.shutdown()
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/context.py", line 129, in shutdown
+    self.__context.shutdown()
+rclpy._rclpy_pybind11.RCLError: failed to shutdown: rcl_shutdown already called on the given context, at ./src/rcl/init.c:333

@@ -1,8 +1,10 @@
 #!/usr/bin/env bash
 set -eo pipefail
 
-WS="$HOME/drone_ws"
+WS="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 WORLD="$WS/src/drone_description/worlds/dynamic_obstacle_test.sdf"
+export GZ_SIM_RESOURCE_PATH="$WS/src/drone_description/worlds:$WS/src/drone_description/models:${GZ_SIM_RESOURCE_PATH:-}"
+
 LOG_DIR="$WS/demo_logs/$(date +%Y%m%d_%H%M%S)"
 
 mkdir -p "$LOG_DIR"
@@ -26,7 +28,7 @@ trap cleanup EXIT
 trap 'exit 130' INT TERM
 
 source /opt/ros/jazzy/setup.bash
-source "$WS/install/setup.bash"
+export PYTHONPATH="$WS/src/drone_controller:${PYTHONPATH:-}"
 
 [[ -f "$WORLD" ]] || {
     echo "ERROR: Gazebo world missing."
@@ -177,7 +179,7 @@ fi
 
 echo "[4/4] Starting autonomous drone..."
 
-ros2 run drone_controller dynamic_autonomy \
+python3 "$WS/src/drone_controller/drone_controller/dynamic_autonomy.py" \
     --ros-args \
     -p dry_run:=false \
     -p takeoff_only:=false \

@@ -1,5 +1,5 @@
 {
-  "source_map": "/home/awnish-kumar/drone_ws/maps/moving_map_20261015_230524.json",
+  "source_map": "moving_map_20261015_230524.json",
   "resolution_m": 0.25,
   "boundary_padding_m": 0.35,
   "known_walls": [

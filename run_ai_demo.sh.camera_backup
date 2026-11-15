@@ -55,8 +55,6 @@ sleep 3
 launch yolo python \
 ~/drone_landing_assets/live_landing_detector.py
 
-launch vision_camera python ~/drone_landing_assets/vision_camera_handoff.py
-
 launch router python \
 src/drone_controller/drone_controller/ai_mission_router.py
 

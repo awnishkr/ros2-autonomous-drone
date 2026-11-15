@@ -1,0 +1,3 @@
+[INFO] [1793731596.270733378] [ai_flight_alignment]: AI Flight Alignment | flight_enabled=True
+[INFO] [1793731596.277623817] [ai_flight_alignment]: FINAL LANDING | descent=True | auto_motor_shutdown=True
+[INFO] [1793731596.279064155] [ai_flight_alignment]: AI LANDING READY — WAITING FOR A* HANDOFF

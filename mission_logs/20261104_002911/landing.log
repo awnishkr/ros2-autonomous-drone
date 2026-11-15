@@ -1,0 +1,65 @@
+[INFO] [1793732361.052845538] [ai_flight_alignment]: AI Flight Alignment | flight_enabled=True
+[INFO] [1793732361.057902765] [ai_flight_alignment]: FINAL LANDING | descent=True | auto_motor_shutdown=True
+[INFO] [1793732361.059013853] [ai_flight_alignment]: AI LANDING READY — WAITING FOR A* HANDOFF
+[INFO] [1793732500.853055981] [ai_flight_alignment]: A* NAVIGATION COMPLETE — AI LANDING ACTIVATED
+[INFO] [1793732500.915760216] [ai_flight_alignment]: ALIGNMENT VERIFYING | z=2.000 | vx=0.000 vy=0.000 vz=-0.150
+[INFO] [1793732502.405893926] [ai_flight_alignment]: ALIGNMENT VERIFYING | z=1.870 | vx=0.000 vy=0.000 vz=-0.150
+[INFO] [1793732504.011634569] [ai_flight_alignment]: AI APPROACH DESCENT | z=1.687 | vx=0.001 vy=-0.001 vz=-0.060
+[INFO] [1793732505.605042999] [ai_flight_alignment]: AI APPROACH DESCENT | z=1.598 | vx=-0.001 vy=-0.001 vz=-0.060
+[INFO] [1793732507.105537874] [ai_flight_alignment]: AI APPROACH DESCENT | z=1.513 | vx=0.000 vy=-0.000 vz=-0.060
+[INFO] [1793732508.719882134] [ai_flight_alignment]: AI APPROACH DESCENT | z=1.420 | vx=0.000 vy=-0.001 vz=-0.060
+[INFO] [1793732510.207130209] [ai_flight_alignment]: AI APPROACH DESCENT | z=1.338 | vx=0.000 vy=0.000 vz=-0.060
+[INFO] [1793732511.805035367] [ai_flight_alignment]: AI APPROACH DESCENT | z=1.248 | vx=0.004 vy=-0.000 vz=-0.060
+[INFO] [1793732513.305148367] [ai_flight_alignment]: AI APPROACH DESCENT | z=1.160 | vx=0.004 vy=0.000 vz=-0.060
+[INFO] [1793732514.906961040] [ai_flight_alignment]: AI APPROACH DESCENT | z=1.072 | vx=-0.003 vy=-0.000 vz=-0.060
+[INFO] [1793732516.505247242] [ai_flight_alignment]: AI APPROACH DESCENT | z=0.981 | vx=-0.002 vy=-0.001 vz=-0.060
+[INFO] [1793732518.008653130] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.908 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793732519.515597616] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.869 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793732521.105093703] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.834 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793732522.613628112] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.804 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793732524.205032832] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.768 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793732525.704898626] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.735 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793732527.208814144] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.700 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793732528.805985095] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.661 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793732530.404917387] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.625 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793732531.904830183] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.590 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793732533.413772429] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.556 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793732535.004873152] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.522 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793732536.507213541] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.487 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793732538.105023581] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.449 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793732539.609611063] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.414 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793732541.205961223] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.375 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793732542.705799938] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.341 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793732544.221670297] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.305 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793732545.810024803] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.269 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793732547.405110085] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.232 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793732548.906042348] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.198 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793732550.405996190] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.164 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793732551.908047707] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.130 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793732553.406019126] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.095 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793732555.007975478] [ai_flight_alignment]: FINAL SLOW DESCENT | z=0.056 | vx=0.000 vy=0.000 vz=-0.025
+[INFO] [1793732556.507142653] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793732558.105766326] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793732559.706012631] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793732561.306597938] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793732562.906662034] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+[INFO] [1793732564.409131973] [ai_flight_alignment]: CONTACT CONFIRMED - MOTORS OFF | z=0.050 | vx=0.000 vy=0.000 vz=0.000
+Traceback (most recent call last):
+  File "/home/awnish-kumar/drone_ws/src/drone_controller/drone_controller/ai_mission_landing.py", line 89, in <module>
+    main()
+  File "/home/awnish-kumar/drone_ws/src/drone_controller/drone_controller/ai_mission_landing.py", line 73, in main
+    rclpy.spin(node)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/__init__.py", line 247, in spin
+    executor.spin_once()
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 926, in spin_once
+    self._spin_once_impl(timeout_sec)
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 907, in _spin_once_impl
+    handler, entity, node = self.wait_for_ready_callbacks(
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 877, in wait_for_ready_callbacks
+    return next(self._cb_iter)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/opt/ros/jazzy/lib/python3.12/site-packages/rclpy/executors.py", line 757, in _wait_for_ready_callbacks
+    wait_set = _rclpy.WaitSet(
+               ^^^^^^^^^^^^^^^
+rclpy._rclpy_pybind11.RCLError: failed to initialize wait set: the given context is not valid, either rcl_init() was not called or rcl_shutdown() was called., at ./src/rcl/wait.c:130

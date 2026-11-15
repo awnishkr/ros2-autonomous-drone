@@ -1,0 +1,2 @@
+[WARN] [1793732183.757272409] [CompressedDepthPublisher]: parameter `quadcopter.landing_camera.image.format` is deprecated and ambiguous; use transport qualified name `quadcopter.landing_camera.image.compressedDepth.format`
+[INFO] [1793732207.762720060] [rclcpp]: signal_handler(SIGINT/SIGTERM)
